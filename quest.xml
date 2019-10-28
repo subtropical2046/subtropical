@@ -14,31 +14,29 @@
 		<dialog_image id='2'>1</dialog_image>
 		<dialog id='3'>03對話四五六七八九十一二三四五六七八九十</dialog>
 		<dialog_image id='3'>0</dialog_image>
-		<ending>0</ending>
 		<button id='button_1'>按鈕1</button>
 		<button_1_next>quest1_button1_next</button_1_next>
 		<button id='button_2'>按鈕2</button>
-		<button_2_next>quest2_button1_next</button_1_next>
-
+		<button_2_next>quest2_button1_next</button_2_next>
 	</quest>
 
-	<quest id='quest1_button1_next'>
+	<quest_result id='quest1_button1_next'>
 		<image_name>quest1_button1_next</image_name>
 		<dialog id='1'>01點擊按鈕1之後的對話</dialog>
 		<dialog_image id='1'>0</dialog_image>
 		<dialog id='2'>02點擊按鈕1之後的對話</dialog>
 		<dialog_image id='2'>1</dialog_image>
 		<ending>0</ending>
-	</quest>
+	</quest_result>
 
-	<quest id='quest1_button2_next'>
+	<quest_result id='quest1_button2_next'>
 		<image_name>quest2_button1_next</image_name>
 		<dialog id='1'>01點擊按鈕2之後的對話</dialog>
 		<dialog_image id='1'>0</dialog_image>
 		<dialog id='2'>02點擊按鈕2之後的對話</dialog>
 		<dialog_image id='2'>1</dialog_image>
 		<ending>1</ending>	
-	</quest>
+	</quest_result>
 
 
 	<quest id='quest2'>
