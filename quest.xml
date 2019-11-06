@@ -39,7 +39,7 @@
 
 	<quest_button2 id='quest0'>
 		<question>問題02</question>
-		<question_image>1</question_image>
+		<question_image>2</question_image>
 		<button id='button_1'>第2題按鈕1</button>
 		<button id='button_2'>第2題按鈕2</button>
 	</quest_button2>
