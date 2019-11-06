@@ -5,50 +5,112 @@
 //dialog id對話順序
 //dialog_image顯示圖片frame編號
 //image_name圖片animation名稱，務必要跟quest id相同
+//ending 0進入下一個任務 1到ending
 
 	<quest id='quest0'>
-		<image_name>quest1</image_name>
-		<dialog id='1'>01對話四五六七八九十一二三四五六七八九十</dialog>
-		<dialog_image id='1'>0</dialog_image>
-		<dialog id='2'>02對話四五六七八九十一二三四五六七八九十</dialog>
-		<dialog_image id='2'>1</dialog_image>
-		<dialog id='3'>03對話四五六七八九十一二三四五六七八九十</dialog>
-		<dialog_image id='3'>0</dialog_image>
+		<title>前言</title>		<title_image>1</title_image>
+		<image_name>0</image_name>
+		<dialog id='1'>01對話四五六七八九十一二三四五六七八九十</dialog> 		<dialog_image id='1'>1</dialog_image>
+		<dialog id='2'>02對話四五六七八九十一二三四五六七八九十</dialog>		<dialog_image id='2'>2</dialog_image>
+		<dialog id='3'>03對話四五六七八九十一二三四五六七八九十</dialog>		<dialog_image id='3'>1</dialog_image>
 	</quest>
 
-	<quest_button id='quest0'>
+	<quest_button1 id='quest0'>
 		<question>問題01</question>
-		<button id='button_1'>按鈕1</button>
-		<button_1_next>quest1_button1_next</button_1_next>
-		<button id='button_2'>按鈕2</button>
-		<button_2_next>quest2_button1_next</button_2_next>
-	</quest_button>
+		<button id='button_1'>第1題按鈕1</button>
+		<button id='button_2'>第2題按鈕2</button>
+	</quest_button1>
 
-	<quest_result id='quest0'>
+	<quest_result1 id='quest0'>
 		<result_text id='1'>
 			<image_name>quest1_button1_next</image_name>
-			<dialog id='1'>01點擊按鈕1之後的對話</dialog>
-			<dialog_image id='1'>0</dialog_image>
-			<dialog id='2'>02點擊按鈕1之後的對話</dialog>
-			<dialog_image id='2'>1</dialog_image>
+			<dialog id='1'>01點擊按鈕1之後的對話</dialog>			<dialog_image id='1'>0</dialog_image>
+			<dialog id='2'>02點擊按鈕1之後的對話</dialog>			<dialog_image id='2'>1</dialog_image>
 			<ending>0</ending>
 		</result_text>
 
 		<result_text id='2'>
 			<image_name>quest2_button1_next</image_name>
-			<dialog id='1'>01點擊按鈕2之後的對話</dialog>
-			<dialog_image id='1'>0</dialog_image>
-			<dialog id='2'>02點擊按鈕2之後的對話</dialog>
-			<dialog_image id='2'>1</dialog_image>
+			<dialog id='1'>01點擊按鈕2之後的對話</dialog>			<dialog_image id='1'>0</dialog_image>
+			<dialog id='2'>02點擊按鈕2之後的對話</dialog>			<dialog_image id='2'>1</dialog_image>
 			<ending>1</ending>
 		</result_text>
-	</quest_result>
+	</quest_result1>
+
+	<quest_button2 id='quest0'>
+		<question>問題02</question>
+		<button id='button_1'>第2題按鈕1</button>
+		<button id='button_2'>第2題按鈕2</button>
+	</quest_button2>
+
+	<quest_result2 id='quest0'>
+		<result_text id='1'>
+			<image_name>quest1_button1_next</image_name>
+			<dialog id='1'>11點擊按鈕1之後的對話</dialog>			<dialog_image id='1'>0</dialog_image>
+			<dialog id='2'>12點擊按鈕1之後的對話</dialog>			<dialog_image id='2'>1</dialog_image>
+			<ending>1</ending>
+		</result_text>
+
+		<result_text id='2'>
+			<image_name>quest1_button1_next</image_name>
+			<dialog id='1'>11點擊按鈕2之後的對話</dialog>			<dialog_image id='1'>0</dialog_image>
+			<dialog id='2'>12點擊按鈕2之後的對話</dialog>			<dialog_image id='2'>1</dialog_image>
+			<ending>1</ending>
+		</result_text>
+	</quest_result2>
+
 
 
 	<quest id='quest1'>
-		<dialog id='1'>21對話四五六七八九十一二三四五六七八九十</dialog>
-		<dialog id='2'>22對話四五六七八九十一二三四五六七八九十</dialog>
-		<dialog id='3'>23對話四五六七八九十一二三四五六七八九十</dialog>
+		<title>前言</title>		<title_image>1</title_image>
+		<image_name>0</image_name>
+		<dialog id='1'>201對話四五六七八九十一二三四五六七八九十</dialog> 		<dialog_image id='1'>1</dialog_image>
+		<dialog id='2'>202對話四五六七八九十一二三四五六七八九十</dialog>		<dialog_image id='2'>2</dialog_image>
+		<dialog id='3'>203對話四五六七八九十一二三四五六七八九十</dialog>		<dialog_image id='3'>1</dialog_image>
 	</quest>
+
+	<quest_button1 id='quest1'>
+		<question>問題01</question>
+		<button id='button_1'>2第1題按鈕1</button>
+		<button id='button_2'>2第2題按鈕2</button>
+	</quest_button1>
+
+	<quest_result1 id='quest1'>
+		<result_text id='1'>
+			<image_name>quest1_button1_next</image_name>
+			<dialog id='1'>201點擊按鈕1之後的對話</dialog>			<dialog_image id='1'>0</dialog_image>
+			<dialog id='2'>202點擊按鈕1之後的對話</dialog>			<dialog_image id='2'>1</dialog_image>
+			<ending>0</ending>
+		</result_text>
+
+		<result_text id='2'>
+			<image_name>quest2_button1_next</image_name>
+			<dialog id='1'>201點擊按鈕2之後的對話</dialog>			<dialog_image id='1'>0</dialog_image>
+			<dialog id='2'>202點擊按鈕2之後的對話</dialog>			<dialog_image id='2'>1</dialog_image>
+			<ending>1</ending>
+		</result_text>
+	</quest_result1>
+
+	<quest_button2 id='quest1'>
+		<question>問題02</question>
+		<button id='button_1'>2第2題按鈕1</button>
+		<button id='button_2'>2第2題按鈕2</button>
+	</quest_button2>
+
+	<quest_result2 id='quest1'>
+		<result_text id='1'>
+			<image_name>quest1_button1_next</image_name>
+			<dialog id='1'>201點擊按鈕1之後的對話</dialog>			<dialog_image id='1'>0</dialog_image>
+			<dialog id='2'>202點擊按鈕1之後的對話</dialog>			<dialog_image id='2'>1</dialog_image>
+			<ending>1</ending>
+		</result_text>
+
+		<result_text id='2'>
+			<image_name>quest2_button1_next</image_name>
+			<dialog id='1'>201點擊按鈕2之後的對話</dialog>			<dialog_image id='1'>0</dialog_image>
+			<dialog id='2'>202點擊按鈕2之後的對話</dialog>			<dialog_image id='2'>1</dialog_image>
+			<ending>1</ending>
+		</result_text>
+	</quest_result2>
 
 </subtropical>
