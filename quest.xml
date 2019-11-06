@@ -4,7 +4,7 @@
 //quest id是任務編號
 //dialog id對話順序
 //dialog_image顯示圖片frame編號
-//image_name圖片animation名稱，務必要跟quest id相同
+
 //ending 0進入下一個任務 1到ending
 
 	<quest id='quest0'>
@@ -23,14 +23,14 @@
 
 	<quest_result1 id='quest0'>
 		<result_text id='1'>
-			<image_name>quest1_button1_next</image_name>
+
 			<dialog id='1'>01點擊按鈕1之後的對話</dialog>			<dialog_image id='1'>1</dialog_image>
 			<dialog id='2'>02點擊按鈕1之後的對話</dialog>			<dialog_image id='2'>1</dialog_image>
 			<ending>0</ending>
 		</result_text>
 
 		<result_text id='2'>
-			<image_name>quest2_button1_next</image_name>
+
 			<dialog id='1'>01點擊按鈕2之後的對話</dialog>			<dialog_image id='1'>1</dialog_image>
 			<dialog id='2'>02點擊按鈕2之後的對話</dialog>			<dialog_image id='2'>1</dialog_image>
 			<ending>0</ending>
@@ -46,14 +46,14 @@
 
 	<quest_result2 id='quest0'>
 		<result_text id='1'>
-			<image_name>quest1_button1_next</image_name>
+
 			<dialog id='1'>11點擊按鈕1之後的對話</dialog>			<dialog_image id='1'>1</dialog_image>
 			<dialog id='2'>12點擊按鈕1之後的對話</dialog>			<dialog_image id='2'>1</dialog_image>
 			<ending>0</ending>
 		</result_text>
 
 		<result_text id='2'>
-			<image_name>quest1_button1_next</image_name>
+
 			<dialog id='1'>11點擊按鈕2之後的對話</dialog>			<dialog_image id='1'>1</dialog_image>
 			<dialog id='2'>12點擊按鈕2之後的對話</dialog>			<dialog_image id='2'>1</dialog_image>
 			<ending>0</ending>
@@ -78,14 +78,14 @@
 
 	<quest_result1 id='quest1'>
 		<result_text id='1'>
-			<image_name>quest1_button1_next</image_name>
+
 			<dialog id='1'>201點擊按鈕1之後的對話</dialog>			<dialog_image id='1'>1</dialog_image>
 			<dialog id='2'>202點擊按鈕1之後的對話</dialog>			<dialog_image id='2'>1</dialog_image>
 			<ending>0</ending>
 		</result_text>
 
 		<result_text id='2'>
-			<image_name>quest2_button1_next</image_name>
+
 			<dialog id='1'>201點擊按鈕2之後的對話</dialog>			<dialog_image id='1'>1</dialog_image>
 			<dialog id='2'>202點擊按鈕2之後的對話</dialog>			<dialog_image id='2'>1</dialog_image>
 			<ending>1</ending>
@@ -101,14 +101,14 @@
 
 	<quest_result2 id='quest1'>
 		<result_text id='1'>
-			<image_name>quest1_button1_next</image_name>
+
 			<dialog id='1'>201點擊按鈕1之後的對話</dialog>			<dialog_image id='1'>1</dialog_image>
 			<dialog id='2'>202點擊按鈕1之後的對話</dialog>			<dialog_image id='2'>1</dialog_image>
 			<ending>1</ending>
 		</result_text>
 
 		<result_text id='2'>
-			<image_name>quest2_button1_next</image_name>
+
 			<dialog id='1'>201點擊按鈕2之後的對話</dialog>			<dialog_image id='1'>1</dialog_image>
 			<dialog id='2'>202點擊按鈕2之後的對話</dialog>			<dialog_image id='2'>1</dialog_image>
 			<ending>1</ending>
