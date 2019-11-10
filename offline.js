@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1573383562,
+	"version": 1573400377,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -19,6 +19,9 @@
 		"images/text_forward_button-sheet0.png",
 		"images/text_backword_button-sheet0.png",
 		"images/question_panel-sheet0.png",
+		"images/progress_dot-sheet0.png",
+		"images/progress_dot-sheet1.png",
+		"images/finished_quest-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
