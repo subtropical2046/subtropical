@@ -5,7 +5,7 @@
 //dialog id對話順序
 //dialog_image顯示圖片frame編號
 
-//ending 0進入下一個任務 1到ending
+//ending 0進入下一個任務 1到第2段問題 2到ending
 
 	<quest id='quest0'>
 		<title>前言</title>		<title_image>1</title_image>
@@ -26,7 +26,7 @@
 
 			<dialog id='1'>01點擊按鈕1之後的對話</dialog>			<dialog_image id='1'>1</dialog_image>
 			<dialog id='2'>02點擊按鈕1之後的對話</dialog>			<dialog_image id='2'>1</dialog_image>
-			<ending>0</ending>
+			<ending>1</ending>
 		</result_text>
 
 		<result_text id='2'>
@@ -56,7 +56,7 @@
 
 			<dialog id='1'>11點擊按鈕2之後的對話</dialog>			<dialog_image id='1'>1</dialog_image>
 			<dialog id='2'>12點擊按鈕2之後的對話</dialog>			<dialog_image id='2'>1</dialog_image>
-			<ending>0</ending>
+			<ending>2</ending>
 		</result_text>
 	</quest_result2>
 
