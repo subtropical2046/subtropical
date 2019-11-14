@@ -10,10 +10,10 @@
 	<quest id='quest0'>
 		<title>前言</title>		<title_image>1</title_image>
 		<dialog id='1'>2024年，中國串連亞洲親中國家，發起了「AR16」同盟；台灣在2020年新總統上任後，不只承認九二共識，更在AR16發起後，搶先加盟。</dialog> 		<dialog_image id='1'>1</dialog_image>
-		<dialog id='2'>中國將年底的AR16峰會，交付台灣於台北舉辦。台北因即將到來的峰會，看似繁榮，卻也瀰漫起一股「維穩」的氣氛。</dialog>		<dialog_image id='2'>2</dialog_image>
-		<dialog id='3'>在這個時局下，你的公司因為AR16的到來，接到許多筆大單，業績蒸蒸日上，上司張三哥承諾，等AR16結束後，會將你升職，</dialog>		<dialog_image id='3'>3</dialog_image>
-		<dialog id='4'>你跟女兒小彤相依為命，一個人工作扶養他這麼久，感覺辛苦總算要得到回報了；你們約定，等AR16結束後，要帶他去東京迪士尼，好好慶祝。</dialog>		<dialog_image id='4'>1</dialog_image>
-		<dialog id='5'>但令人不安的是，隱約也傳出消息，AR16峰會最後一天，總統將與中國簽訂互相保護、維安的和平互助協議……</dialog>		<dialog_image id='5'>2</dialog_image>
+		<dialog id='2'>中國將年底的AR16峰會，交付台灣於台北舉辦。台北因即將到來的峰會，看似繁榮，卻也瀰漫起一股「維穩」的氣氛。</dialog>							<dialog_image id='2'>2</dialog_image>
+		<dialog id='3'>在這個時局下，你的公司因為AR16的到來，接到許多筆大單，業績蒸蒸日上，上司張三哥承諾，等AR16結束後，會將你升職，</dialog>				<dialog_image id='3'>3</dialog_image>
+		<dialog id='4'>你跟女兒小彤相依為命，一個人工作扶養他這麼久，感覺辛苦總算要得到回報了；你們約定，等AR16結束後，要帶他去東京迪士尼，好好慶祝。</dialog>	<dialog_image id='4'>1</dialog_image>
+		<dialog id='5'>但令人不安的是，隱約也傳出消息，AR16峰會最後一天，總統將與中國簽訂互相保護、維安的和平互助協議……</dialog>								<dialog_image id='5'>2</dialog_image>
 	</quest>
 
 
@@ -22,10 +22,10 @@
 ///////////////////////////////////////
 	<quest id='quest1'>
 		<title>最沈默的聆聽者</title>		<title_image>1</title_image>
-		<dialog id='1'>AR16快到了，城市裡，瀰漫了熱絡又怪異的氛圍。幾天前，內政部召開記者會，宣布為了因應AR16到來，維安加倍升級。</dialog> 		<dialog_image id='1'>1</dialog_image>
-		<dialog id='2'>將與中國公安部簽署協議，基於維安、反恐、打擊犯罪等理由，政府可互相交換「台灣與大陸地區」民眾個資。</dialog>		<dialog_image id='2'>2</dialog_image>
+		<dialog id='1'>AR16快到了，城市裡，瀰漫了熱絡又怪異的氛圍。幾天前，內政部召開記者會，宣布為了因應AR16到來，維安加倍升級。</dialog> 						<dialog_image id='1'>1</dialog_image>
+		<dialog id='2'>將與中國公安部簽署協議，基於維安、反恐、打擊犯罪等理由，政府可互相交換「台灣與大陸地區」民眾個資。</dialog>									<dialog_image id='2'>2</dialog_image>
 		<dialog id='3'>「這就是讓我們的資訊，都被中國掌握啊！」這幾天來，像這樣的說法，在網路上不斷流傳，說從信用卡紀錄，到網路聊天內容，都會被中國掌握。</dialog>		<dialog_image id='3'>1</dialog_image>
-		<dialog id='4'>在野黨立委、民間社運團體，紛紛發起包圍警政署，拒絕交換協議，時間就在明天下午，你正好補休⋯⋯</dialog>		<dialog_image id='4'>1</dialog_image>
+		<dialog id='4'>在野黨立委、民間社運團體，紛紛發起包圍警政署，拒絕交換協議，時間就在明天下午，你正好補休⋯⋯</dialog>										<dialog_image id='4'>1</dialog_image>
 	</quest>
 
 	<quest_button1 id='quest1'>
@@ -38,16 +38,16 @@
 	<quest_result1 id='quest1'>
 		<result_text id='1'>
 //問題1點擊按鈕1之後的對話
-			<dialog id='1'>經過人民劇烈的抗議後，協議暫緩實施，然而1個月後，卻依然在立法院被強行闖關，2個月後正式生效。</dialog>			<dialog_image id='1'>1</dialog_image>
+			<dialog id='1'>經過人民劇烈的抗議後，協議暫緩實施，然而1個月後，卻依然在立法院被強行闖關，2個月後正式生效。</dialog>				<dialog_image id='1'>1</dialog_image>
 			<dialog id='2'>2個月後，中國政府根據交換的對話紀錄，在雲南以「顛覆國家政權」罪名，逮捕一位台灣籍的動保團體志工。</dialog>			<dialog_image id='2'>2</dialog_image>
 			<ending>2</ending>
 		</result_text>
 
 		<result_text id='2'>
 //問題1點擊按鈕2之後的對話
-			<dialog id='1'>沒過多久，公司在上海的分部，傳出有台籍同事被逮捕，理由是他當年參加太陽花學運時，曾經傳過「真的好想台獨」的訊息。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>當天，公司寄來群組郵件，要求大家勿在網路、通訊軟體上，討論政治話題，或發表相關意見。</dialog>			<dialog_image id='2'>2</dialog_image>
-			<dialog id='3'>同時，你聽到公司那群跟你不錯的小夥子，要發起匿名連署，聲援上海的同事。</dialog>			<dialog_image id='3'>3</dialog_image>
+			<dialog id='1'>沒過多久，公司在上海的分部，傳出有台籍同事被逮捕，理由是他當年參加太陽花學運時，曾經傳過「真的好想台獨」的訊息。</dialog>				<dialog_image id='1'>1</dialog_image>
+			<dialog id='2'>當天，公司寄來群組郵件，要求大家勿在網路、通訊軟體上，討論政治話題，或發表相關意見。</dialog>										<dialog_image id='2'>2</dialog_image>
+			<dialog id='3'>同時，你聽到公司那群跟你不錯的小夥子，要發起匿名連署，聲援上海的同事。</dialog>													<dialog_image id='3'>1</dialog_image>
 			<ending>1</ending>
 		</result_text>
 	</quest_result1>
@@ -64,14 +64,14 @@
 		<result_text id='1'>
 //問題2點擊按鈕1之後的對話
 			<dialog id='1'>在你參加連署後的隔天，張三哥把你叫進辦公室，告誡你是準備當主管的人，不要再參加什麼聲援活動。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>你慌忙地說好，心裡卻暗自驚恐，明明是匿名的，為什麼張三哥會知道⋯⋯</dialog>			<dialog_image id='2'>1</dialog_image>
+			<dialog id='2'>你慌忙地說好，心裡卻暗自驚恐，明明是匿名的，為什麼張三哥會知道⋯⋯</dialog>									<dialog_image id='2'>1</dialog_image>
 			<ending>2</ending>
 		</result_text>
 
 		<result_text id='2'>
 //問題2點擊按鈕2之後的對話
 			<dialog id='1'>隔沒幾天，公司又傳來群組信，說有掌握了參加連署的名單同事名單，同時，發起連署的年輕人，紛紛受到解僱。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>你在心理暗自喘了口氣，還好沒有參與⋯⋯</dialog>			<dialog_image id='2'>1</dialog_image>
+			<dialog id='2'>你在心理暗自喘了口氣，還好沒有參與⋯⋯</dialog>																	<dialog_image id='2'>1</dialog_image>
 			<ending>2</ending>
 		</result_text>
 	</quest_result2>
@@ -79,57 +79,36 @@
 
 ///////////////////////////////////////
 	<quest id='quest2'>
-		<title>前言</title>		<title_image>1</title_image>
-		<dialog id='1'>201對話四五六七八九十一二三四五六七八九十</dialog> 		<dialog_image id='1'>1</dialog_image>
-		<dialog id='2'>202對話四五六七八九十一二三四五六七八九十</dialog>		<dialog_image id='2'>2</dialog_image>
-		<dialog id='3'>203對話四五六七八九十一二三四五六七八九十</dialog>		<dialog_image id='3'>1</dialog_image>
+		<title>有一天，愛也要退讓</title>		<title_image>1</title_image>
+		<dialog id='1'>因為AR16，公司進入旺季，連續好多天，都要到9點多才能下班，去安親班接小彤。</dialog> 		<dialog_image id='1'>1</dialog_image>
+		<dialog id='2'>今天把小彤哄睡後，自己躺在床上滑手機，卻見到一則動態：「我想我還是不適合這個世界」那是你認識多年的同志友人畢畢。</dialog>		<dialog_image id='2'>2</dialog_image>
+		<dialog id='3'>原來，執政黨立委準備取消同志婚姻；另一方面，在野黨、公民團體發動緊急動員，要包圍立法院抗議，希望擋下修法。</dialog>		<dialog_image id='3'>1</dialog_image>
 	</quest>
 
 	<quest_button1 id='quest2'>
-		<question>問題01</question>
+		<question>時間是明天早上，你要去嗎？</question>
 		<question_image>1</question_image>
-		<button id='button_1'>2第1題按鈕1</button>
-		<button id='button_2'>2第2題按鈕2</button>
+		<button id='button_1'>早上有個空檔可以外出，還是去看一下吧</button>
+		<button id='button_2'>不去，要改就改吧，跟我無關</button>
 	</quest_button1>
 
 	<quest_result1 id='quest2'>
 		<result_text id='1'>
-
-			<dialog id='1'>201點擊按鈕1之後的對話</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>202點擊按鈕1之後的對話</dialog>			<dialog_image id='2'>1</dialog_image>
-			<ending>0</ending>
+//問題1點擊按鈕1之後的對話
+			<dialog id='1'>一早到了現場，已經是人山人海，隨著立院直播裡，人權派立委節節敗退，台下氣氛也沈寂萬分。</dialog>			<dialog_image id='1'>1</dialog_image>
+			<dialog id='2'>突然，一群白衣人衝出來，手持棍棒對人們猛打，你被擊中額頭昏倒，醒來時，人躺在醫院裡，身邊躺著好幾名受傷的年輕人</dialog>			<dialog_image id='2'>1</dialog_image>
+			<ending>2</ending>
 		</result_text>
 
 		<result_text id='2'>
-
-			<dialog id='1'>201點擊按鈕2之後的對話</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>202點擊按鈕2之後的對話</dialog>			<dialog_image id='2'>1</dialog_image>
+//問題1點擊按鈕2之後的對話
+			<dialog id='1'>隔天中午，你在吃飯時看到新聞，螢幕上出現一張沾滿鮮血的臉⋯⋯那是畢畢。</dialog>			<dialog_image id='1'>1</dialog_image>
+			<dialog id='2'>原來，一群白衣人突然闖進挺同群眾裡，手持棍棒四處攻擊；畢畢在鏡頭前哀嚎倒下，你手中的筷子，則愣得掉到地上。</dialog>			<dialog_image id='2'>1</dialog_image>
 			<ending>2</ending>
 		</result_text>
 	</quest_result1>
 
-	<quest_button2 id='quest2'>
-		<question>問題02</question>
-		<question_image>1</question_image>
-		<button id='button_1'>2第2題按鈕1</button>
-		<button id='button_2'>2第2題按鈕2</button>
-	</quest_button2>
 
-	<quest_result2 id='quest2'>
-		<result_text id='1'>
-
-			<dialog id='1'>201點擊按鈕1之後的對話</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>202點擊按鈕1之後的對話</dialog>			<dialog_image id='2'>1</dialog_image>
-			<ending>2</ending>
-		</result_text>
-
-		<result_text id='2'>
-
-			<dialog id='1'>201點擊按鈕2之後的對話</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>202點擊按鈕2之後的對話</dialog>			<dialog_image id='2'>1</dialog_image>
-			<ending>2</ending>
-		</result_text>
-	</quest_result2>
 
 
 
