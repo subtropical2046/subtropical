@@ -40,7 +40,7 @@
 //問題1點擊按鈕1之後的對話
 			<dialog id='1'>經過人民劇烈的抗議後，協議暫緩實施，然而1個月後，卻依然在立法院被強行闖關，2個月後正式生效。</dialog>			<dialog_image id='1'>1</dialog_image>
 			<dialog id='2'>2個月後，中國政府根據交換的對話紀錄，在雲南以「顛覆國家政權」罪名，逮捕一位台灣籍的動保團體志工。</dialog>			<dialog_image id='2'>2</dialog_image>
-			<ending>0</ending>
+			<ending>2</ending>
 		</result_text>
 
 		<result_text id='2'>
