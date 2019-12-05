@@ -75,7 +75,20 @@
 			<ending>2</ending>
 		</result_text>
 	</quest_result2>
-
+	<info id='quest1'>
+		<info_button id='1'>找到證據了！荷蘭駭客破解中國監控「社群媒體」的神秘系統（2019.03.06）</info_button>
+		<info_link id='1'>https://buzzorange.com/techorange/2019/03/06/china-social-media-is-monitored/</info_link>
+		<info_button id='2'>外國人也遭殃！中國對新疆邊界以監控App偵查、下載個資（2019.07.03）</info_button>
+		<info_link id='2'>https://udn.com/news/story/7086/3907625</info_link>
+		<info_button id='3'>大陸公安駐台？刑事局：未定案將努力（2009.05.07）</info_button>
+		<info_link id='3'>http://dailynews.sina.com/bg/tw/twlocal/cna/20090507/2133240583.html</info_link>
+		<info_button id='4'>國安局密件立院，爆新戶政系統由中國網路公司外包（2014.03.11）</info_button>
+		<info_link id='4'>https://www.thenewslens.com/article/2437</info_link>
+		<info_button id='5'>驚傳銓敘部59萬筆個資外洩 陳其邁：協助處理補漏洞（2019.06.25）</info_button>
+		<info_link id='5'>https://newtalk.tw/news/view/2019-06-25/264191</info_link>
+		<info_button id='6'>兩岸打擊犯罪 立院報告：罪犯接回落差擴大（2018.11.04）</info_button>
+		<info_link id='6'>https://www.rti.org.tw/news/view/id/2001102</info_link>
+	</info>
 
 ///////////////////////////////////////
 	<quest id='quest2'>
@@ -107,7 +120,16 @@
 			<ending>0</ending>
 		</result_text>
 	</quest_result1>
-
+	<info id='quest2'>
+		<info_button id='1'>反同婚就「票投國民黨」　賴士葆：2020我們全部改回來！（2019.05.18）</info_button>
+		<info_link id='1'>https://tinyurl.com/y4572uzn</info_link>
+		<info_button id='2'>同婚專法三讀 反同團體：不排除發動「複決公投」（2019.05.17）</info_button>
+		<info_link id='2'>https://tinyurl.com/txtu2fd</info_link>
+		<info_button id='3'>解密台灣》「表決一時爽，回去火葬場！」中南部綠委硬著頭皮挺同婚：2020年真的挫咧等（2019.05.22）</info_button>
+		<info_link id='3'>https://tinyurl.com/sfbb2c7</info_link>
+		<info_button id='4'>「這就是他們守護的價值？」挺同婚人士凱道遭飛踢肋骨斷裂（2016.12.04）</info_button>
+		<info_link id='4'>https://tinyurl.com/uqjwwbw</info_link>
+	</info>
 
 
 
@@ -167,6 +189,15 @@
 		</result_text>
 	</quest_result2>
 
+	<info id='quest3'>
+		<info_button id='1'>12強賽》我西文簡介成「中國台北」 棒協：概括承受</info_button>
+		<info_link id='1'>https://sports.ltn.com.tw/news/paper/1330827</info_link>
+		<info_button id='2'>紐西蘭藏族少年無法參加國際足球賽</info_button>
+		<info_link id='2'>https://tinyurl.com/y6p5zuna</info_link>
+		<info_button id='3'>台灣目前體協被掌握的狀況</info_button>
+		<info_link id='3'>https://tinyurl.com/yy7x8vy5</info_link>
+	</info>
+
 
 
 ///////////////////////////////////////
@@ -223,6 +254,17 @@
 		</result_text>
 	</quest_result2>
 
+	<info id='quest4'>
+		<info_button id='1'>TutorABC 母集團 iTutorGroup 疑已被中國平安併購（2019.09.11）</info_button>
+		<info_link id='1'>https://tinyurl.com/y3kyzdmo</info_link>
+		<info_button id='2'>老師不願遵守新政策辭職，TutorABC表示台灣是中國的一部分（2019.11.04）</info_button>
+		<info_link id='2'>https://tinyurl.com/yxhhb73u</info_link>
+		<info_button id='3'>香港頻果：內地富豪　覬覦港幼兒教育（2018.09.16）</info_button>
+		<info_link id='3'>https://tinyurl.com/ulnc58j</info_link>
+		<info_button id='4'>香港補教名師收入多誇張？競爭對手開價3億2300萬搶人（2017.11.27）</info_button>
+		<info_link id='4'>https://tinyurl.com/slzdtkl</info_link>
+
+	</info>
 
 
 ///////////////////////////////////////
@@ -276,6 +318,14 @@
 		</result_text>
 	</quest_result2>
 
+	<info id='quest5'>
+		<info_button id='1'>中國獨立歌法李志疑被消失三個月　曾創作多首涉及六四禁歌</info_button>
+		<info_link id='1'>https://tinyurl.com/y2bylu62</info_link>
+		<info_button id='2'>在澳洲提倡民主也不行？華裔澳籍作家楊恆均返鄉被拘（2019.08.27）</info_button>
+		<info_link id='2'>https://tinyurl.com/r7kr5xx</info_link>
+		<info_button id='3'>廣州臨時劇團可能明天就會消失，他們在摸索中演繹今天的秘密（2019.03.30）</info_button>
+		<info_link id='3'>https://tinyurl.com/y2pq2upb</info_link>
+	</info>
 
 
 
@@ -336,6 +386,19 @@
 		</result_text>
 	</quest_result2>
 
+	<info id='quest6'>
+		<info_button id='1'>和平封院事件</info_button>
+		<info_link id='1'>https://tinyurl.com/y4o4b4mg</info_link>
+		<info_button id='2'>Sars如何透過香港傳播</info_button>
+		<info_link id='2'>https://tinyurl.com/y6tuvl9n</info_link>
+		<info_button id='3'>中國北京驚現「黑死病」：鼠疫還是奪命瘟神嗎？</info_button>
+		<info_link id='3'>https://www.bbc.com/zhongwen/trad/chinese-news-50409031</info_link>
+		<info_button id='4'>北京爆「鼠疫」確診2例！　《紐時》：當局封鎖、控制疫情討論</info_button>
+		<info_link id='4'>https://www.ettoday.net/news/20191114/1579452.htm</info_link>
+		<info_button id='5'>中國內蒙古2人「確診鼠疫」送北京醫院　9月已有1死亡病例</info_button>
+		<info_link id='5'>https://www.ettoday.net/news/20191113/1578563.htm#ixzz65EIJi8MX</info_link>
+	</info>
+
 
 ///////////////////////////////////////
 	<quest id='quest7'>
@@ -372,7 +435,13 @@
 		</result_text>
 	</quest_result1>
 
+	<info id='quest7'>
+		<info_button id='1'>報導遭控破壞土耳其經濟穩定 2名彭博記者被起訴 （2019.06.15）</info_button>
+		<info_link id='1'>https://tinyurl.com/ur4wzv8</info_link>
+		<info_button id='2'>菲記者瑞薩再被捕 人權觀察：當局持續迫害異議者 (2019.03.29)</info_button>
+		<info_link id='2'>https://tinyurl.com/umrktac</info_link>
 
+	</info>
 
 ///////////////////////////////////////
 	<quest id='quest8'>
@@ -406,7 +475,20 @@
 		</result_text>
 	</quest_result1>
 
-
+	<info id='quest8'>
+		<info_button id='1'>維吾爾人的逃亡：離開中國，卻無法離開恐懼 (2018.10.29)</info_button>
+		<info_link id='1'>https://tinyurl.com/wbv634v</info_link>
+		<info_button id='2'>中國要求遣返維吾爾人 美國務卿呼籲各國抵制 (2019.09.23)</info_button>
+		<info_link id='2'>https://tinyurl.com/ua62gca</info_link>
+		<info_button id='3'>10名脫北者在中國被捕，或將被遣返 (2017.11.08)</info_button>
+		<info_link id='3'>https://tinyurl.com/vtu54kv</info_link>
+		<info_button id='4'>香港人反抗》流亡近2年 黃台仰籲港人堅定國際戰線 (2019.11.05)</info_button>
+		<info_link id='4'>https://tinyurl.com/u8gg7ds</info_link>
+		<info_button id='5'>旺角衝突涉事香港少女「流亡」台灣：能否獲政治庇護？(2017.08.29)</info_button>
+		<info_link id='5'>https://tinyurl.com/qvup8s2</info_link>
+		<info_button id='6'>【影音】香港流亡者對台灣最沉痛的呼籲：我們沒有本錢再天真下去 (2019.05.07)</info_button>
+		<info_link id='6'>https://tinyurl.com/y5wr97q7 </info_link>
+	</info>
 
 
 ///////////////////////////////////////
@@ -458,6 +540,13 @@
 			<ending>0</ending>
 		</result_text>
 	</quest_result2>
+
+	<info id='quest9'>
+		<info_button id='1'>參股醫院炒地皮 中資來台探路</info_button>
+		<info_link id='1'>https://tinyurl.com/y44zw9qs</info_link>
+		<info_button id='2'>學者醫團質疑︰中資捐助不設限 恐鯨吞台醫院</info_button>
+		<info_link id='2'>https://tinyurl.com/y44zw9qs</info_link>
+	</info>
 
 
 ///////////////////////////////////////
@@ -515,7 +604,18 @@
 		</result_text>
 	</quest_result2>
 
-
+	<info id='quest10'>
+		<info_button id='1'>韓國瑜力推陸資買房　專家：只爽到3種人（2018.12.26）</info_button>
+		<info_link id='1'>https://tinyurl.com/r5f259n</info_link>
+		<info_button id='2'>陸資炒房面臨崩跌 謝金河：韓國瑜注意到了嗎？（2019.01.18）</info_button>
+		<info_link id='2'>https://udn.com/news/story/7241/3600497</info_link>
+		<info_button id='3'>「韓流」發威？陸資來炒房，建商發大財（2018.03.14）</info_button>
+		<info_link id='3'>https://tinyurl.com/wuozhvu</info_link>
+		<info_button id='4'>6000多家店舖的門消失了，誰讓街道閉上了眼睛？（2017.06.28）</info_button>
+		<info_link id='4'>https://tinyurl.com/yxvfdalv</info_link>
+		<info_button id='5'>中國監控維族人利器　海康威視「天網」現蹤台中、高雄</info_button>
+		<info_link id='5'>https://tinyurl.com/y54un9oq</info_link>
+	</info>
 
 ///////////////////////////////////////
 	<quest id='quest11'>
@@ -569,6 +669,17 @@
 			<ending>0</ending>
 		</result_text>
 	</quest_result2>
+
+	<info id='quest11'>
+		<info_button id='1'>你的上帝，由我定義：中共如何敵視與清洗基督徒？（2018.12.25）</info_button>
+		<info_link id='1'>https://tinyurl.com/u7sdmku</info_link>
+		<info_button id='2'>中國化已入魔：儒家經典解釋《聖經》　聖經人物全繪成中國古人（2019.11.07）</info_button>
+		<info_link id='2'>https://tinyurl.com/wgazrb4</info_link>
+		<info_button id='3'>佛教被迫追「中國夢」　中共瘋狂強改佛道寺廟逼愛國（2019.11.10）</info_button>
+		<info_link id='3'>https://tinyurl.com/wj2dt7g</info_link>
+		<info_button id='4'>「不信共產黨，共產黨就把佛給你拆了」 中國政府炸毀世界最高摩崖石刻觀音像（2019.03.05）</info_button>
+		<info_link id='4'>https://tinyurl.com/w2ovcgy</info_link>
+	</info>
 
 
 ///////////////////////////////////////
