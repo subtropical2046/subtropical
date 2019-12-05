@@ -10,7 +10,7 @@
 	<quest id='quest0'>
 		<title>前言</title>		<title_image>1</title_image>
 		<dialog id='1'>2024年，中國串連亞洲親中國家，發起了「AR16」同盟；台灣在2020年新總統上任後，不只承認九二共識，更在AR16發起後，搶先加盟。</dialog> 		<dialog_image id='1'>1</dialog_image>
-		<dialog id='2'>中國將年底的AR16峰會，交付台灣於台北舉辦。台北因即將到來的峰會，看似繁榮，卻也瀰漫起一股「維穩」的氣氛。</dialog>							<dialog_image id='2'>2</dialog_image>
+		<dialog id='2'>中國將年底的AR16峰會，交付台灣於台北舉辦。台北因即將到來的峰會，看似繁榮，卻也瀰漫起一股「維穩」的氣氛。</dialog>							<dialog_image id='2'>1</dialog_image>
 		<dialog id='3'>在這個時局下，你的公司因為AR16的到來，接到許多筆大單，業績蒸蒸日上，上司張三哥承諾，等AR16結束後，會將你升職，</dialog>				<dialog_image id='3'>1</dialog_image>
 		<dialog id='4'>你跟女兒小彤相依為命，一個人工作扶養他這麼久，感覺辛苦總算要得到回報了；你們約定，等AR16結束後，要帶他去東京迪士尼，好好慶祝。</dialog>	<dialog_image id='4'>3</dialog_image>
 		<dialog id='5'>但令人不安的是，隱約也傳出消息，AR16峰會最後一天，總統將與中國簽訂互相保護、維安的和平互助協議……</dialog>								<dialog_image id='5'>2</dialog_image>
@@ -23,7 +23,7 @@
 	<quest id='quest1'>
 		<title>最沈默的聆聽者</title>		<title_image>1</title_image>
 		<dialog id='1'>AR16快到了，城市裡，瀰漫了熱絡又怪異的氛圍。幾天前，內政部召開記者會，宣布為了因應AR16到來，維安加倍升級。</dialog> 						<dialog_image id='1'>1</dialog_image>
-		<dialog id='2'>將與中國公安部簽署協議，基於維安、反恐、打擊犯罪等理由，政府可互相交換「台灣與大陸地區」民眾個資。</dialog>									<dialog_image id='2'>2</dialog_image>
+		<dialog id='2'>將與中國公安部簽署協議，基於維安、反恐、打擊犯罪等理由，政府可互相交換「台灣與大陸地區」民眾個資。</dialog>									<dialog_image id='2'>1</dialog_image>
 		<dialog id='3'>「這就是讓我們的資訊，都被中國掌握啊！」這幾天來，像這樣的說法，在網路上不斷流傳，說從信用卡紀錄，到網路聊天內容，都會被中國掌握。</dialog>		<dialog_image id='3'>1</dialog_image>
 		<dialog id='4'>在野黨立委、民間社運團體，紛紛發起包圍警政署，拒絕交換協議，時間就在明天下午，你正好補休⋯⋯</dialog>										<dialog_image id='4'>1</dialog_image>
 	</quest>
