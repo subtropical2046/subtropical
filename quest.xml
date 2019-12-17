@@ -746,19 +746,19 @@
 		<result_text id='1'>
 
 			<dialog id='1'>你們一大早抵達現場，戴上口罩，周遭陸續聚集了穿著黑衣的人群，有人拿著布條，有人拿著旗幟。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>突然間，人群開始喊：「警察打人了！」、「快撤啊！」人群騷動了起來，朋友拉著你往後跑。</dialog>			<dialog_image id='2'>1</dialog_image>
-			<dialog id='3'>你們沒命地跑，有人躲進捷運站，警察卻追進去，發射催淚彈；有人躲進小巷子，但卻被不明的白衣人毆打。</dialog>			<dialog_image id='3'>1</dialog_image>
-			<dialog id='4'>逃離現場後，你疲累地回家，等到覺得應該沒問題了，才把小彤接回家。</dialog>			<dialog_image id='4'>1</dialog_image>
-			<dialog id='5'>那天夜裡，自稱是警察的人破門而入，在女兒面前，將你拖走...</dialog>			<dialog_image id='5'>1</dialog_image>
-			<dialog id='6'>你想起自己一路面臨的所有選擇，彷彿其實別無選擇，最後必定會走到這一步⋯⋯</dialog>			<dialog_image id='6'>1</dialog_image>
+			<dialog id='2'>突然間，人群開始喊：「警察打人了！」、「快撤啊！」人群騷動了起來，朋友拉著你往後跑。</dialog>			<dialog_image id='2'>2</dialog_image>
+			<dialog id='3'>你們沒命地跑，有人躲進捷運站，警察卻追進去，發射催淚彈；有人躲進小巷子，但卻被不明的白衣人毆打。</dialog>			<dialog_image id='3'>3</dialog_image>
+			<dialog id='4'>逃離現場後，你疲累地回家，等到覺得應該沒問題了，才把小彤接回家。</dialog>			<dialog_image id='4'>4</dialog_image>
+			<dialog id='5'>那天夜裡，自稱是警察的人破門而入，在女兒面前，將你拖走...</dialog>			<dialog_image id='5'>5</dialog_image>
+			<dialog id='6'>你想起自己一路面臨的所有選擇，彷彿其實別無選擇，最後必定會走到這一步⋯⋯</dialog>			<dialog_image id='6'>6</dialog_image>
 			<ending>0</ending>
 		</result_text>
 
 		<result_text id='2'>
 
 			<dialog id='1'>你在不知不覺中睡去，醒來已經接近中午，手機上滿是AR16的訊息，抗爭遭到強力鎮壓，到處都是有人被打到頭破血流的照片。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>此時朋友們傳訊息說，他們受了傷，想借你家休息。「來吧。」你換了衣服，下樓準備接人，卻見到——</dialog>			<dialog_image id='2'>1</dialog_image>
-			<dialog id='3'>「你的女兒呢？」張三站在門口，背後一群警察壓著你的朋友，「你認識這些暴徒嗎？」</dialog>			<dialog_image id='3'>1</dialog_image>
+			<dialog id='2'>此時朋友們傳訊息說，他們受了傷，想借你家休息。「來吧。」你換了衣服，下樓準備接人，卻見到——</dialog>			<dialog_image id='2'>2</dialog_image>
+			<dialog id='3'>「你的女兒呢？」張三站在門口，背後一群警察壓著你的朋友，「你認識這些暴徒嗎？」</dialog>			<dialog_image id='3'>3</dialog_image>
 			<ending>1</ending>
 		</result_text>
 	</quest_result1>
@@ -774,17 +774,17 @@
 		<result_text id='1'>
 
 			<dialog id='1'>「抓住他！」張三大吼，兩名警衛衝上前，把你按倒在地。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>你被帶上警車，心底有種感覺，此生再也見不到女兒了。</dialog>			<dialog_image id='2'>1</dialog_image>
-			<dialog id='3'>你想起自己一路面臨的所有選擇，彷彿其實別無選擇，最後必定會走到這一步⋯⋯</dialog>			<dialog_image id='3'>1</dialog_image>
+			<dialog id='2'>你被帶上警車，心底有種感覺，此生再也見不到女兒了。</dialog>			<dialog_image id='2'>2</dialog_image>
+			<dialog id='3'>你想起自己一路面臨的所有選擇，彷彿其實別無選擇，最後必定會走到這一步⋯⋯</dialog>			<dialog_image id='3'>2</dialog_image>
 			<ending>2</ending>
 		</result_text>
 
 		<result_text id='2'>
 
 			<dialog id='1'>「這樣啊……」張三笑著說，「好好放假吧，小心一點，最近很亂喔……」說罷，他帶著警察，將朋友們押走。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>一個月後，你帶著女兒，搭上飛往舊金山的班機。此時因為抗爭AR16被逮捕的人，已經超過百名，各地衝突不斷升級。</dialog>			<dialog_image id='2'>1</dialog_image>
-			<dialog id='3'>你們在父母的協助下，找到政治庇護，飛往美國；庇護的名額很少，父母把機會讓給你們，「你們年輕的先逃吧。」</dialog>			<dialog_image id='3'>1</dialog_image>
-			<dialog id='4'>你看著島嶼逐漸縮小，想起自己一路面臨的所有選擇，彷彿其實別無選擇，最後必定會走到這一步⋯⋯</dialog>			<dialog_image id='4'>1</dialog_image>
+			<dialog id='2'>一個月後，你帶著女兒，搭上飛往舊金山的班機。此時因為抗爭AR16被逮捕的人，已經超過百名，各地衝突不斷升級。</dialog>			<dialog_image id='2'>2</dialog_image>
+			<dialog id='3'>你們在父母的協助下，找到政治庇護，飛往美國；庇護的名額很少，父母把機會讓給你們，「你們年輕的先逃吧。」</dialog>			<dialog_image id='3'>3</dialog_image>
+			<dialog id='4'>你看著島嶼逐漸縮小，想起自己一路面臨的所有選擇，彷彿其實別無選擇，最後必定會走到這一步⋯⋯</dialog>			<dialog_image id='4'>2</dialog_image>
 			<ending>2</ending>
 		</result_text>
 	</quest_result2>
