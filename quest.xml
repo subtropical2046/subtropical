@@ -751,7 +751,7 @@
 			<dialog id='4'>逃離現場後，你疲累地回家，等到覺得應該沒問題了，才把小彤接回家。</dialog>			<dialog_image id='4'>7</dialog_image>
 			<dialog id='5'>那天夜裡，自稱是警察的人破門而入，在女兒面前，將你拖走...</dialog>			<dialog_image id='5'>8</dialog_image>
 			<dialog id='6'>你想起自己一路面臨的所有選擇，彷彿其實別無選擇，最後必定會走到這一步⋯⋯</dialog>			<dialog_image id='6'>8</dialog_image>
-			<ending>0</ending>
+			<ending>1</ending>
 		</result_text>
 
 		<result_text id='2'>
