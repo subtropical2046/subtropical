@@ -10,10 +10,10 @@
 	<quest id='quest0'>
 		<title>前言</title>		<title_image>1</title_image>
 		<dialog id='1'>2024年，中國串連亞洲親中國家，發起了「AR16」同盟；台灣在2020年新總統上任後，不只承認九二共識，更在AR16發起後，搶先加盟。</dialog> 		<dialog_image id='1'>1</dialog_image>
-		<dialog id='2'>中國將年底的AR16峰會，交付台灣於台北舉辦。台北因即將到來的峰會，看似繁榮，卻也瀰漫起一股「維穩」的氣氛。</dialog>							<dialog_image id='2'>1</dialog_image>
-		<dialog id='3'>在這個時局下，你的公司因為AR16的到來，接到許多筆大單，業績蒸蒸日上，上司張三哥承諾，等AR16結束後，會將你升職，</dialog>				<dialog_image id='3'>1</dialog_image>
-		<dialog id='4'>你跟女兒小彤相依為命，一個人工作扶養他這麼久，感覺辛苦總算要得到回報了；你們約定，等AR16結束後，要帶他去東京迪士尼，好好慶祝。</dialog>	<dialog_image id='4'>3</dialog_image>
-		<dialog id='5'>但令人不安的是，隱約也傳出消息，AR16峰會最後一天，總統將與中國簽訂互相保護、維安的和平互助協議……</dialog>								<dialog_image id='5'>2</dialog_image>
+		<dialog id='2'>中國將年底的AR16峰會，交付台灣於台北舉辦。台北因即將到來的峰會，看似繁榮，卻也瀰漫起一股「維穩」的氣氛。</dialog>							<dialog_image id='2'>2</dialog_image>
+		<dialog id='3'>在這個時局下，你的公司因為AR16的到來，接到許多筆大單，業績蒸蒸日上，上司張三哥承諾，等AR16結束後，會將你升職，</dialog>				<dialog_image id='3'>2</dialog_image>
+		<dialog id='4'>你跟女兒小彤相依為命，一個人工作扶養他這麼久，感覺辛苦總算要得到回報了；你們約定，等AR16結束後，要帶他去東京迪士尼，好好慶祝。</dialog>	<dialog_image id='4'>2</dialog_image>
+		<dialog id='5'>但令人不安的是，隱約也傳出消息，AR16峰會最後一天，總統將與中國簽訂互相保護、維安的和平互助協議……</dialog>								<dialog_image id='5'>3</dialog_image>
 	</quest>
 
 
@@ -25,12 +25,12 @@
 		<dialog id='1'>AR16快到了，城市裡，瀰漫了熱絡又怪異的氛圍。幾天前，內政部召開記者會，宣布為了因應AR16到來，維安加倍升級。</dialog> 						<dialog_image id='1'>1</dialog_image>
 		<dialog id='2'>將與中國公安部簽署協議，基於維安、反恐、打擊犯罪等理由，政府可互相交換「台灣與大陸地區」民眾個資。</dialog>									<dialog_image id='2'>1</dialog_image>
 		<dialog id='3'>「這就是讓我們的資訊，都被中國掌握啊！」這幾天來，像這樣的說法，在網路上不斷流傳，說從信用卡紀錄，到網路聊天內容，都會被中國掌握。</dialog>		<dialog_image id='3'>1</dialog_image>
-		<dialog id='4'>在野黨立委、民間社運團體，紛紛發起包圍警政署，拒絕交換協議，時間就在明天下午，你正好補休⋯⋯</dialog>										<dialog_image id='4'>1</dialog_image>
+		<dialog id='4'>在野黨立委、民間社運團體，紛紛發起包圍警政署，拒絕交換協議，時間就在明天下午，你正好補休⋯⋯</dialog>										<dialog_image id='4'>2</dialog_image>
 	</quest>
 
 	<quest_button1 id='quest1'>
 		<question>要去參加嗎？</question>
-		<question_image>1</question_image>
+		<question_image>2</question_image>
 		<button id='button_1'>去參加吧。</button>
 		<button id='button_2'>難得放假，還是帶小彤出去玩吧。</button>
 	</quest_button1>
@@ -45,9 +45,9 @@
 
 		<result_text id='2'>
 //問題1點擊按鈕2之後的對話
-			<dialog id='1'>沒過多久，公司在上海的分部，傳出有台籍同事被逮捕，理由是他當年參加太陽花學運時，曾經傳過「真的好想台獨」的訊息。</dialog>				<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>當天，公司寄來群組郵件，要求大家勿在網路、通訊軟體上，討論政治話題，或發表相關意見。</dialog>										<dialog_image id='2'>2</dialog_image>
-			<dialog id='3'>同時，你聽到公司那群跟你不錯的小夥子，要發起匿名連署，聲援上海的同事。</dialog>													<dialog_image id='3'>1</dialog_image>
+			<dialog id='1'>沒過多久，公司在上海的分部，傳出有台籍同事被逮捕，理由是他當年參加太陽花學運時，曾經傳過「真的好想台獨」的訊息。</dialog>				<dialog_image id='1'>3</dialog_image>
+			<dialog id='2'>當天，公司寄來群組郵件，要求大家勿在網路、通訊軟體上，討論政治話題，或發表相關意見。</dialog>										<dialog_image id='2'>3</dialog_image>
+			<dialog id='3'>同時，你聽到公司那群跟你不錯的小夥子，要發起匿名連署，聲援上海的同事。</dialog>													<dialog_image id='3'>4</dialog_image>
 			<ending>1</ending>
 		</result_text>
 	</quest_result1>
@@ -55,7 +55,7 @@
 	<quest_button2 id='quest1'>
 
 		<question>他們問你，要不要一起加入？</question>
-		<question_image>1</question_image>
+		<question_image>4</question_image>
 		<button id='button_1'>當然了，要挺自己的同事！</button>
 		<button id='button_2'>公司都下令了，還是不要多管閒事⋯⋯</button>
 	</quest_button2>
@@ -63,15 +63,15 @@
 	<quest_result2 id='quest1'>
 		<result_text id='1'>
 //問題2點擊按鈕1之後的對話
-			<dialog id='1'>在你參加連署後的隔天，張三哥把你叫進辦公室，告誡你是準備當主管的人，不要再參加什麼聲援活動。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>你慌忙地說好，心裡卻暗自驚恐，明明是匿名的，為什麼張三哥會知道⋯⋯</dialog>									<dialog_image id='2'>1</dialog_image>
+			<dialog id='1'>在你參加連署後的隔天，張三哥把你叫進辦公室，告誡你是準備當主管的人，不要再參加什麼聲援活動。</dialog>			<dialog_image id='1'>5</dialog_image>
+			<dialog id='2'>你慌忙地說好，心裡卻暗自驚恐，明明是匿名的，為什麼張三哥會知道⋯⋯</dialog>									<dialog_image id='2'>5</dialog_image>
 			<ending>0</ending>
 		</result_text>
 
 		<result_text id='2'>
 //問題2點擊按鈕2之後的對話
-			<dialog id='1'>隔沒幾天，公司又傳來群組信，說有掌握了參加連署的名單同事名單，同時，發起連署的年輕人，紛紛受到解僱。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>你在心理暗自喘了口氣，還好沒有參與⋯⋯</dialog>																	<dialog_image id='2'>1</dialog_image>
+			<dialog id='1'>隔沒幾天，公司又傳來群組信，說有掌握了參加連署的名單同事名單，同時，發起連署的年輕人，紛紛受到解僱。</dialog>			<dialog_image id='1'>6</dialog_image>
+			<dialog id='2'>你在心理暗自喘了口氣，還好沒有參與⋯⋯</dialog>																	<dialog_image id='2'>6</dialog_image>
 			<ending>2</ending>
 		</result_text>
 	</quest_result2>
@@ -93,14 +93,14 @@
 ///////////////////////////////////////
 	<quest id='quest2'>
 		<title>有一天，愛也要退讓</title>		<title_image>1</title_image>
-		<dialog id='1'>因為AR16，公司進入旺季，連續好多天，都要到9點多才能下班，去安親班接小彤。</dialog> 		<dialog_image id='1'>1</dialog_image>
+		<dialog id='1'>因為AR16，公司進入旺季，連續好多天，都要到9點多才能下班，去安親班接小彤。</dialog> 										<dialog_image id='1'>1</dialog_image>
 		<dialog id='2'>今天把小彤哄睡後，自己躺在床上滑手機，卻見到一則動態：「我想我還是不適合這個世界」那是你認識多年的同志友人畢畢。</dialog>		<dialog_image id='2'>2</dialog_image>
-		<dialog id='3'>原來，執政黨立委準備取消同志婚姻；另一方面，在野黨、公民團體發動緊急動員，要包圍立法院抗議，希望擋下修法。</dialog>		<dialog_image id='3'>1</dialog_image>
+		<dialog id='3'>原來，執政黨立委準備取消同志婚姻；另一方面，在野黨、公民團體發動緊急動員，要包圍立法院抗議，希望擋下修法。</dialog>			<dialog_image id='3'>2</dialog_image>
 	</quest>
 
 	<quest_button1 id='quest2'>
 		<question>時間是明天早上，你要去嗎？</question>
-		<question_image>1</question_image>
+		<question_image>2</question_image>
 		<button id='button_1'>早上有個空檔可以外出，還是去看一下吧</button>
 		<button id='button_2'>不去，要改就改吧，跟我無關</button>
 	</quest_button1>
@@ -108,15 +108,15 @@
 	<quest_result1 id='quest2'>
 		<result_text id='1'>
 //問題1點擊按鈕1之後的對話
-			<dialog id='1'>一早到了現場，已經是人山人海，隨著立院直播裡，人權派立委節節敗退，台下氣氛也沈寂萬分。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>突然，一群白衣人衝出來，手持棍棒對人們猛打，你被擊中額頭昏倒，醒來時，人躺在醫院裡，身邊躺著好幾名受傷的年輕人</dialog>			<dialog_image id='2'>1</dialog_image>
+			<dialog id='1'>一早到了現場，已經是人山人海，隨著立院直播裡，人權派立委節節敗退，台下氣氛也沈寂萬分。</dialog>									<dialog_image id='1'>3</dialog_image>
+			<dialog id='2'>突然，一群白衣人衝出來，手持棍棒對人們猛打，你被擊中額頭昏倒，醒來時，人躺在醫院裡，身邊躺著好幾名受傷的年輕人</dialog>			<dialog_image id='2'>4</dialog_image>
 			<ending>0</ending>
 		</result_text>
 
 		<result_text id='2'>
 //問題1點擊按鈕2之後的對話
-			<dialog id='1'>隔天中午，你在吃飯時看到新聞，螢幕上出現一張沾滿鮮血的臉⋯⋯那是畢畢。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>原來，一群白衣人突然闖進挺同群眾裡，手持棍棒四處攻擊；畢畢在鏡頭前哀嚎倒下，你手中的筷子，則愣得掉到地上。</dialog>			<dialog_image id='2'>1</dialog_image>
+			<dialog id='1'>隔天中午，你在吃飯時看到新聞，螢幕上出現一張沾滿鮮血的臉⋯⋯那是畢畢。</dialog>											<dialog_image id='1'>5</dialog_image>
+			<dialog id='2'>原來，一群白衣人突然闖進挺同群眾裡，手持棍棒四處攻擊；畢畢在鏡頭前哀嚎倒下，你手中的筷子，則愣得掉到地上。</dialog>			<dialog_image id='2'>6</dialog_image>
 			<ending>0</ending>
 		</result_text>
 	</quest_result1>
@@ -137,13 +137,13 @@
 ///////////////////////////////////////
 	<quest id='quest3'>
 		<title>為國⋯⋯爭光？</title>		<title_image>1</title_image>
-		<dialog id='1'>小彤加入桌球校隊快一年了，今天她興奮地說，下個月教練要帶他們，到新加坡參加AR16同盟盃桌球賽。</dialog> 		<dialog_image id='1'>1</dialog_image>
+		<dialog id='1'>小彤加入桌球校隊快一年了，今天她興奮地說，下個月教練要帶他們，到新加坡參加AR16同盟盃桌球賽。</dialog> 						<dialog_image id='1'>1</dialog_image>
 		<dialog id='2'>然而，教練卻私下找上你，說有長官要求，參加聯賽要來自優良公民家庭，但你過去在網路上，似乎發表過一些「反政府言論」⋯⋯</dialog>		<dialog_image id='2'>2</dialog_image>
 	</quest>
 
 	<quest_button1 id='quest3'>
 		<question>你會怎麼做？</question>
-		<question_image>1</question_image>
+		<question_image>2</question_image>
 		<button id='button_1'>太扯了，去找在野黨立委投訴去！</button>
 		<button id='button_2'>以前年輕不懂事，我馬上刪掉。</button>
 	</quest_button1>
@@ -151,23 +151,23 @@
 	<quest_result1 id='quest3'>
 		<result_text id='1'>
 
-			<dialog id='1'>你連絡在立委召開記者會，好幾位體育署官員因此遭懲處，代表隊也不用審查背景了。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>隔天，小彤卻哭著回家，原來，他因為記者會的事，被隊友排擠，也從先發選手變成候補。</dialog>			<dialog_image id='2'>1</dialog_image>
-			<dialog id='3'>「教練說，因為我們搗亂，差點就不能去比賽，還讓我去已經很好了⋯⋯」他說。</dialog>			<dialog_image id='3'>1</dialog_image>
-			<dialog id='4'>你跟女兒道歉，對不起，不該因為大人的問題，讓小孩被這樣對待。</dialog>			<dialog_image id='4'>1</dialog_image>
+			<dialog id='1'>你連絡在立委召開記者會，好幾位體育署官員因此遭懲處，代表隊也不用審查背景了。</dialog>			<dialog_image id='1'>3</dialog_image>
+			<dialog id='2'>隔天，小彤卻哭著回家，原來，他因為記者會的事，被隊友排擠，也從先發選手變成候補。</dialog>			<dialog_image id='2'>4</dialog_image>
+			<dialog id='3'>「教練說，因為我們搗亂，差點就不能去比賽，還讓我去已經很好了⋯⋯」他說。</dialog>			<dialog_image id='3'>4</dialog_image>
+			<dialog id='4'>你跟女兒道歉，對不起，不該因為大人的問題，讓小孩被這樣對待。</dialog>			<dialog_image id='4'>4</dialog_image>
 			<ending>0</ending>
 		</result_text>
 
 		<result_text id='2'>
 
-			<dialog id='1'>你刪除過去，在網路上各種批判政府的發文，事後教練要你以監護人身份，簽出隊同意書，上頭卻寫著「中國台灣區代表隊」⋯⋯</dialog>			<dialog_image id='1'>1</dialog_image>
+			<dialog id='1'>你刪除過去，在網路上各種批判政府的發文，事後教練要你以監護人身份，簽出隊同意書，上頭卻寫著「中國台灣區代表隊」⋯⋯</dialog>			<dialog_image id='1'>5</dialog_image>
 			<ending>1</ending>
 		</result_text>
 	</quest_result1>
 
 	<quest_button2 id='quest3'>
 		<question>該要簽下去嗎⋯⋯</question>
-		<question_image>1</question_image>
+		<question_image>5</question_image>
 		<button id='button_1'>太過分了，我要找立委投訴！</button>
 		<button id='button_2'>沒關係，為了小彤，先忍一忍……</button>
 	</quest_button2>
@@ -175,16 +175,16 @@
 	<quest_result2 id='quest3'>
 		<result_text id='1'>
 
-			<dialog id='1'>你連絡立委召開記者會，會後輿論嘩然，體育署長因此出面致歉，並承諾會懲處相關人員。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>然而，其他代表隊的家長，卻紛紛出面指控你涉嫌「虐待孩童」、「靠炒作小孩獲利」，新聞焦點開始轉移到你身上，同時，女兒也從代表隊名單裡被移除……</dialog>		<dialog_image id='2'>1</dialog_image>
-			<dialog id='3'>最後，公司因不堪輿論壓力，而將你資遣，社會局則以不知哪來的資料，剝奪你對女兒的監護權……</dialog>			<dialog_image id='3'>1</dialog_image>
+			<dialog id='1'>你連絡立委召開記者會，會後輿論嘩然，體育署長因此出面致歉，並承諾會懲處相關人員。</dialog>			<dialog_image id='1'>6</dialog_image>
+			<dialog id='2'>然而，其他代表隊的家長，卻紛紛出面指控你涉嫌「虐待孩童」、「靠炒作小孩獲利」，新聞焦點開始轉移到你身上，同時，女兒也從代表隊名單裡被移除……</dialog>		<dialog_image id='2'>4</dialog_image>
+			<dialog id='3'>最後，公司因不堪輿論壓力，而將你資遣，社會局則以不知哪來的資料，剝奪你對女兒的監護權……</dialog>			<dialog_image id='3'>4</dialog_image>
 			<ending>2</ending>
 		</result_text>
 
 		<result_text id='2'>
 
-			<dialog id='1'>幾週後，小彤前往海外參賽，代表隊在分組賽裡，險勝中國隊，然而賽後，教練卻遭到不明人士毆打。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>諷刺的是，中國新聞卻以頭條報導：「中國台灣桌球小將　星國奪世界桌球冠軍」</dialog>			<dialog_image id='2'>1</dialog_image>
+			<dialog id='1'>幾週後，小彤前往海外參賽，代表隊在分組賽裡，險勝中國隊，然而賽後，教練卻遭到不明人士毆打。</dialog>			<dialog_image id='1'>7</dialog_image>
+			<dialog id='2'>諷刺的是，中國新聞卻以頭條報導：「中國台灣桌球小將　星國奪世界桌球冠軍」</dialog>			<dialog_image id='2'>8</dialog_image>
 			<ending>0</ending>
 		</result_text>
 	</quest_result2>
@@ -204,7 +204,7 @@
 	<quest id='quest4'>
 		<title>親情的重量</title>		<title_image>1</title_image>
 		<dialog id='1'>你回來得太晚時，小彤會把聯絡簿跟要簽名的回條，放在你桌上，自己先睡去。</dialog> 		<dialog_image id='1'>1</dialog_image>
-		<dialog id='2'>這次多了一張安親班的通知單，老闆要換人了。你上網搜尋，發現是中國的連鎖業者，在台灣大量收購安親班。</dialog>		<dialog_image id='2'>2</dialog_image>
+		<dialog id='2'>這次多了一張安親班的通知單，老闆要換人了。你上網搜尋，發現是中國的連鎖業者，在台灣大量收購安親班。</dialog>		<dialog_image id='2'>1</dialog_image>
 	</quest>
 
 	<quest_button1 id='quest4'>
@@ -218,20 +218,20 @@
 		<result_text id='1'>
 
 			<dialog id='1'>新的安親班比以前遠很多，你每天下班接送小彤，變得更麻煩。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>「沒關係，辛苦一點吧。」你這麼告訴自己，等小彤再大一點，就能照顧自己了。</dialog>			<dialog_image id='2'>1</dialog_image>
+			<dialog id='2'>「沒關係，辛苦一點吧。」你這麼告訴自己，等小彤再大一點，就能照顧自己了。</dialog>			<dialog_image id='2'>2</dialog_image>
 			<ending>0</ending>
 		</result_text>
 
 		<result_text id='2'>
 
-			<dialog id='1'>隔天，你仍舊對此心神不寧，此時母親突然打電話來，你閃過一個念頭，能不能請他們幫忙照顧……</dialog>			<dialog_image id='1'>1</dialog_image>
+			<dialog id='1'>隔天，你仍舊對此心神不寧，此時母親突然打電話來，你閃過一個念頭，能不能請他們幫忙照顧……</dialog>			<dialog_image id='1'>3</dialog_image>
 			<ending>1</ending>
 		</result_text>
 	</quest_result1>
 
 	<quest_button2 id='quest4'>
 		<question>真的要請他們幫忙照顧嗎？</question>
-		<question_image>1</question_image>
+		<question_image>3</question_image>
 		<button id='button_1'>請父母幫忙吧，不然負荷不過來。</button>
 		<button id='button_2'>不用勞煩他們，留在原來的安親班就好。</button>
 	</quest_button2>
@@ -239,17 +239,17 @@
 	<quest_result2 id='quest4'>
 		<result_text id='1'>
 
-			<dialog id='1'>趁著假日，你帶小彤回市郊的老家，父母狠狠唸了你一頓，「連養女兒都養不好 …」「連家庭都照顧不到……」</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>接下來幾個月，每天你下班疲累萬分，去接女兒時，還要忍受他們數落你：「還不快點找個新的伴？」「找個正常點的對象啦，上次那個丟臉死了！」</dialog>			<dialog_image id='2'>1</dialog_image>
-			<dialog id='3'>幾個月後新聞報導，原本的安親班，用黑心廉價餅乾，給小孩當點心，引發集體食物中毒，有小孩甚至陷入昏迷……還好，當初沒繼續留下。</dialog>			<dialog_image id='3'>1</dialog_image>
+			<dialog id='1'>趁著假日，你帶小彤回市郊的老家，父母狠狠唸了你一頓，「連養女兒都養不好 …」「連家庭都照顧不到……」</dialog>			<dialog_image id='1'>4</dialog_image>
+			<dialog id='2'>接下來幾個月，每天你下班疲累萬分，去接女兒時，還要忍受他們數落你：「還不快點找個新的伴？」「找個正常點的對象啦，上次那個丟臉死了！」</dialog>			<dialog_image id='2'>4</dialog_image>
+			<dialog id='3'>幾個月後新聞報導，原本的安親班，用黑心廉價餅乾，給小孩當點心，引發集體食物中毒，有小孩甚至陷入昏迷……還好，當初沒繼續留下。</dialog>			<dialog_image id='3'>5</dialog_image>
 			<ending>0</ending>
 		</result_text>
 
 		<result_text id='2'>
 
-			<dialog id='1'>你想起童年，偷買的漫畫被撕掉、遊戲機被砸爛，偷看電視被罰跪到天亮，隔天你發高燒，父親只說自作自受。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>你不想讓女兒被他們照顧，於是你讓小彤繼續待在安親班。</dialog>			<dialog_image id='2'>1</dialog_image>
-			<dialog id='3'>某天，你收到醫院緊急通知，安親班因管理疏失，小孩集體感染變種腸病毒⋯⋯幾天後，小彤在加護病房內死去，留下你孤零零一個人。</dialog>			<dialog_image id='3'>1</dialog_image>
+			<dialog id='1'>你想起童年，偷買的漫畫被撕掉、遊戲機被砸爛，偷看電視被罰跪到天亮，隔天你發高燒，父親只說自作自受。</dialog>			<dialog_image id='1'>6</dialog_image>
+			<dialog id='2'>你不想讓女兒被他們照顧，於是你讓小彤繼續待在安親班。</dialog>			<dialog_image id='2'>6</dialog_image>
+			<dialog id='3'>某天，你收到醫院緊急通知，安親班因管理疏失，小孩集體感染變種腸病毒⋯⋯幾天後，小彤在加護病房內死去，留下你孤零零一個人。</dialog>			<dialog_image id='3'>7</dialog_image>
 			<ending>2</ending>
 		</result_text>
 	</quest_result2>
@@ -272,12 +272,12 @@
 		<title>自由的歌聲</title>		<title_image>1</title_image>
 		<dialog id='1'>玩樂團的朋友寄來邀請函，同時，你收到他傳來的訊息：「我們終於請到王夏了！」</dialog> 		<dialog_image id='1'>1</dialog_image>
 		<dialog id='2'>你上網搜尋「王夏」，看到他被指控持有毒品的消息。</dialog>		<dialog_image id='2'>2</dialog_image>
-		<dialog id='3'>你想起AR16將近，政府最近，除了開始檢查網路言論，也鼓勵舉報不法份子。</dialog>		<dialog_image id='3'>1</dialog_image>
+		<dialog id='3'>你想起AR16將近，政府最近，除了開始檢查網路言論，也鼓勵舉報不法份子。</dialog>		<dialog_image id='3'>2</dialog_image>
 	</quest>
 
 	<quest_button1 id='quest5'>
 		<question>還要不要去演唱會呢？</question>
-		<question_image>1</question_image>
+		<question_image>2</question_image>
 		<button id='button_1'>聽起來不太好，還是不要吧。</button>
 		<button id='button_2'>人家都邀請了，去看看吧。</button>
 	</quest_button1>
@@ -285,21 +285,21 @@
 	<quest_result1 id='quest5'>
 		<result_text id='1'>
 
-			<dialog id='1'>對，這種時候，還是小心為上⋯⋯萬一警察來抓藏獨份子，被牽連可就不好了。</dialog>			<dialog_image id='1'>1</dialog_image>
+			<dialog id='1'>對，這種時候，還是小心為上⋯⋯萬一警察來抓藏獨份子，被牽連可就不好了。</dialog>			<dialog_image id='1'>2</dialog_image>
 			<ending>0</ending>
 		</result_text>
 
 		<result_text id='2'>
 
-			<dialog id='1'>你帶著不安來到現場，王夏果然現身，高唱著：「人民不需要自由，這是最好的年代⋯⋯」</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>你瞥向一旁，大家紛紛拿出手機錄影、發動態，如果之後被發現，你也出席這種場合，會不會有事？</dialog>			<dialog_image id='2'>1</dialog_image>
+			<dialog id='1'>你帶著不安來到現場，王夏果然現身，高唱著：「人民不需要自由，這是最好的年代⋯⋯」</dialog>			<dialog_image id='1'>3</dialog_image>
+			<dialog id='2'>你瞥向一旁，大家紛紛拿出手機錄影、發動態，如果之後被發現，你也出席這種場合，會不會有事？</dialog>			<dialog_image id='2'>3</dialog_image>
 			<ending>1</ending>
 		</result_text>
 	</quest_result1>
 
 	<quest_button2 id='quest5'>
 		<question>要舉報王夏自保嗎？</question>
-		<question_image>1</question_image>
+		<question_image>4</question_image>
 		<button id='button_1'>偷偷舉報王夏。</button>
 		<button id='button_2'>不管了，跟著一起大聲唱。</button>
 	</quest_button2>
@@ -307,13 +307,13 @@
 	<quest_result2 id='quest5'>
 		<result_text id='1'>
 
-			<dialog id='1'>演唱會安然結束。隔天你看到新聞，演唱會結束後沒多久，王夏在附近的酒吧被逮補，並遭查獲持有大量非法藥物。</dialog>			<dialog_image id='1'>1</dialog_image>
+			<dialog id='1'>演唱會安然結束。隔天你看到新聞，演唱會結束後沒多久，王夏在附近的酒吧被逮補，並遭查獲持有大量非法藥物。</dialog>			<dialog_image id='1'>4</dialog_image>
 			<ending>0</ending>
 		</result_text>
 
 		<result_text id='2'>
 
-			<dialog id='1'>你們聽著歌，在微醺中度過了奇妙的一夜。幾天後，王夏繼續踏上巡迴之旅。</dialog>			<dialog_image id='1'>1</dialog_image>
+			<dialog id='1'>你們聽著歌，在微醺中度過了奇妙的一夜。幾天後，王夏繼續踏上巡迴之旅。</dialog>			<dialog_image id='1'>3</dialog_image>
 			<ending>0</ending>
 		</result_text>
 	</quest_result2>
@@ -333,13 +333,13 @@
 	<quest id='quest6'>
 		<title>被掩蓋的真相</title>		<title_image>1</title_image>
 		<dialog id='1'>下班途中滑著手機，你看到東南亞出現新型禽流感「H5N9」，致死率極高。</dialog> 		<dialog_image id='1'>1</dialog_image>
-		<dialog id='2'>還有網友流傳，台灣已經有感染個案，但政府官員嚴正否認。</dialog>		<dialog_image id='2'>2</dialog_image>
-		<dialog id='3'>你看到車廂遠處，一名似乎剛下飛機的青年，不斷咳嗽，還全身發紅、冒冷汗，跟新聞上H5N9的症狀很像……</dialog>		<dialog_image id='3'>1</dialog_image>
+		<dialog id='2'>還有網友流傳，台灣已經有感染個案，但政府官員嚴正否認。</dialog>		<dialog_image id='2'>1</dialog_image>
+		<dialog id='3'>你看到車廂遠處，一名似乎剛下飛機的青年，不斷咳嗽，還全身發紅、冒冷汗，跟新聞上H5N9的症狀很像……</dialog>		<dialog_image id='3'>2</dialog_image>
 	</quest>
 
 	<quest_button1 id='quest6'>
 		<question>要通報他嗎?</question>
-		<question_image>1</question_image>
+		<question_image>3</question_image>
 		<button id='button_1'>為了大家的安全，趕快跟站務通報他。</button>
 		<button id='button_2'>應該只是一般感冒吧，沒事。</button>
 	</quest_button1>
@@ -347,23 +347,23 @@
 	<quest_result1 id='quest6'>
 		<result_text id='1'>
 
-			<dialog id='1'>你用緊急通話裝置跟車長通話，他卻只說：「台灣還沒有疫情通報。」接著中斷通話。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>這時你才想到，AR16 期間，最重要的就是「穩定」，政府ㄧ定不希望，疫情消息在此時爆發……</dialog>			<dialog_image id='2'>1</dialog_image>
+			<dialog id='1'>你用緊急通話裝置跟車長通話，他卻只說：「台灣還沒有疫情通報。」接著中斷通話。</dialog>			<dialog_image id='1'>3</dialog_image>
+			<dialog id='2'>這時你才想到，AR16 期間，最重要的就是「穩定」，政府ㄧ定不希望，疫情消息在此時爆發……</dialog>			<dialog_image id='2'>3</dialog_image>
 			<ending>1</ending>
 		</result_text>
 
 		<result_text id='2'>
 
-			<dialog id='1'>由於官方刻意隱藏消息，H5N9疫情大爆發，就連你也被感染，只能把女兒託付別人照顧，自己住進隔離病房。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>與病魔奮鬥多天後，你疲累萬分，視線跟意識都開始模糊，</dialog>			<dialog_image id='2'>1</dialog_image>
-			<dialog id='3'>你聽到電視上，官員互相推卸責任；但你已經沒有力氣憤怒，只能任由病魔慢慢把你帶離這個世界⋯⋯</dialog>			<dialog_image id='3'>1</dialog_image>
+			<dialog id='1'>由於官方刻意隱藏消息，H5N9疫情大爆發，就連你也被感染，只能把女兒託付別人照顧，自己住進隔離病房。</dialog>			<dialog_image id='1'>6</dialog_image>
+			<dialog id='2'>與病魔奮鬥多天後，你疲累萬分，視線跟意識都開始模糊，</dialog>			<dialog_image id='2'>7</dialog_image>
+			<dialog id='3'>你聽到電視上，官員互相推卸責任；但你已經沒有力氣憤怒，只能任由病魔慢慢把你帶離這個世界⋯⋯</dialog>			<dialog_image id='3'>8</dialog_image>
 			<ending>2</ending>
 		</result_text>
 	</quest_result1>
 
 	<quest_button2 id='quest6'>
 		<question>現在又該怎麼辦？</question>
-		<question_image>1</question_image>
+		<question_image>4</question_image>
 		<button id='button_1'>找在媒體工作的朋友爆料。</button>
 		<button id='button_2'>既然官方也不管，那就算了。</button>
 	</quest_button2>
@@ -371,17 +371,17 @@
 	<quest_result2 id='quest6'>
 		<result_text id='1'>
 
-			<dialog id='1'>你找上當記者的朋友爆料，報導刊出後，政府迫於壓力，立刻追蹤那位年輕人，並證實是H5N9流感。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>政府立刻在機場設置篩檢站，也隔離患者。後續報導顯示，疫情已經被控制住了。</dialog>			<dialog_image id='2'>1</dialog_image>
-			<dialog id='3'>但你卻發現，幾個常在網路上發聲的意見領袖，突然由親友代發聲明，說他們疑似感染H5N9，而遭到強制隔離……</dialog>			<dialog_image id='3'>1</dialog_image>
+			<dialog id='1'>你找上當記者的朋友爆料，報導刊出後，政府迫於壓力，立刻追蹤那位年輕人，並證實是H5N9流感。</dialog>			<dialog_image id='1'>5</dialog_image>
+			<dialog id='2'>政府立刻在機場設置篩檢站，也隔離患者。後續報導顯示，疫情已經被控制住了。</dialog>			<dialog_image id='2'>5</dialog_image>
+			<dialog id='3'>但你卻發現，幾個常在網路上發聲的意見領袖，突然由親友代發聲明，說他們疑似感染H5N9，而遭到強制隔離……</dialog>			<dialog_image id='3'>5</dialog_image>
 			<ending>0</ending>
 		</result_text>
 
 		<result_text id='2'>
 
-			<dialog id='1'>由於官方刻意打壓消息，疫情後來大爆發，就連你也被感染，只能把女兒託付別人照顧，自己住進隔離病房。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>與病魔奮鬥多天後，你疲累萬分，視線跟意識都開始模糊，</dialog>			<dialog_image id='2'>1</dialog_image>
-			<dialog id='3'>你聽到電視上，官員互相推卸責任；但你已經沒有力氣憤怒，只能任由病魔慢慢把你帶離這個世界⋯⋯</dialog>			<dialog_image id='3'>1</dialog_image>
+			<dialog id='1'>由於官方刻意打壓消息，疫情後來大爆發，就連你也被感染，只能把女兒託付別人照顧，自己住進隔離病房。</dialog>		<dialog_image id='1'>6</dialog_image>
+			<dialog id='2'>與病魔奮鬥多天後，你疲累萬分，視線跟意識都開始模糊，</dialog>												<dialog_image id='2'>7</dialog_image>
+			<dialog id='3'>你聽到電視上，官員互相推卸責任；但你已經沒有力氣憤怒，只能任由病魔慢慢把你帶離這個世界⋯⋯</dialog>			<dialog_image id='3'>8</dialog_image>
 			<ending>2</ending>
 		</result_text>
 	</quest_result2>
@@ -405,15 +405,15 @@
 		<title>惡與我們的距離</title>		<title_image>1</title_image>
 		<dialog id='1'>午休的時候如果有空，你會在公司看雜誌。裡頭筆鋒銳利，讓你忍不住思索：「這樣寫真的可以嗎？」</dialog> 		<dialog_image id='1'>1</dialog_image>
 		<dialog id='2'>其中一名亮眼的記者，是你的大學摯友小林，從學生時代起，就貫徹著用筆改變世界的夢想。</dialog>		<dialog_image id='2'>2</dialog_image>
-		<dialog id='3'>張三哥正巧晃到一旁，見到你手上的雜誌，露出怪異的微笑。</dialog>		<dialog_image id='3'>1</dialog_image>
-		<dialog id='4'>「就接個AR16訂單，做生意嘛，這些記者連這個也要罵，又不是殺人搶劫。」</dialog>		<dialog_image id='4'>1</dialog_image>
-		<dialog id='5'>「沒什麼啦⋯⋯朋友在這裡工作，買一本捧場而已。」你心裡一慌，連忙辯解。</dialog>		<dialog_image id='5'>1</dialog_image>
-		<dialog id='6'>「那能介紹他給我認識嗎？」張三笑得更加燦爛，「他有些東西寫錯了，我想澄清一下。」</dialog>		<dialog_image id='6'>1</dialog_image>	
+		<dialog id='3'>張三哥正巧晃到一旁，見到你手上的雜誌，露出怪異的微笑。</dialog>								<dialog_image id='3'>3</dialog_image>
+		<dialog id='4'>「就接個AR16訂單，做生意嘛，這些記者連這個也要罵，又不是殺人搶劫。」</dialog>		<dialog_image id='4'>3</dialog_image>
+		<dialog id='5'>「沒什麼啦⋯⋯朋友在這裡工作，買一本捧場而已。」你心裡一慌，連忙辯解。</dialog>		<dialog_image id='5'>3</dialog_image>
+		<dialog id='6'>「那能介紹他給我認識嗎？」張三笑得更加燦爛，「他有些東西寫錯了，我想澄清一下。」</dialog>		<dialog_image id='6'>3</dialog_image>	
 	</quest>
 
 	<quest_button1 id='quest7'>
 		<question>可以嗎？</question>
-		<question_image>1</question_image>
+		<question_image>3</question_image>
 		<button id='button_1'>乖乖聽話，幫忙介紹好了。</button>
 		<button id='button_2'>介紹給張三⋯⋯不太好吧。</button>
 	</quest_button1>
@@ -421,16 +421,16 @@
 	<quest_result1 id='quest7'>
 		<result_text id='1'>
 
-			<dialog id='1'>在你介紹兩人認識後，沒過幾天，小林被以「傳播不實資訊」、「煽動他人犯罪」為由逮捕。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>隔天，張三突然給你一筆「績效獎金」；你忍不住想，這筆錢是否與小林有關⋯⋯</dialog>			<dialog_image id='2'>1</dialog_image>
+			<dialog id='1'>在你介紹兩人認識後，沒過幾天，小林被以「傳播不實資訊」、「煽動他人犯罪」為由逮捕。</dialog>			<dialog_image id='1'>6</dialog_image>
+			<dialog id='2'>隔天，張三突然給你一筆「績效獎金」；你忍不住想，這筆錢是否與小林有關⋯⋯</dialog>			<dialog_image id='2'>6</dialog_image>
 			<ending>0</ending>
 		</result_text>
 
 		<result_text id='2'>
 
-			<dialog id='1'>「算了，媒體亂抹黑也不是一兩天的事，別理他們就好。」張三哥笑著說，你聽得冷汗直流。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>不久後，你以前的臉書文章被人起底，說是激進台獨份子，連你破碎的婚姻，都被人攻擊，女兒還被網友酸，是沒有人要的小孩。</dialog>			<dialog_image id='2'>1</dialog_image>
-			<dialog id='3'>你不明白自己做錯了什麼，為什麼要被這樣對待。</dialog>			<dialog_image id='3'>1</dialog_image>
+			<dialog id='1'>「算了，媒體亂抹黑也不是一兩天的事，別理他們就好。」張三哥笑著說，你聽得冷汗直流。</dialog>			<dialog_image id='1'>4</dialog_image>
+			<dialog id='2'>不久後，你以前的臉書文章被人起底，說是激進台獨份子，連你破碎的婚姻，都被人攻擊，女兒還被網友酸，是沒有人要的小孩。</dialog>			<dialog_image id='2'>7</dialog_image>
+			<dialog id='3'>你不明白自己做錯了什麼，為什麼要被這樣對待。</dialog>			<dialog_image id='3'>7</dialog_image>
 			<ending>0</ending>
 		</result_text>
 	</quest_result1>
@@ -448,7 +448,7 @@
 		<title>後來，他們沒有海闊天空</title>		<title_image>1</title_image>
 		<dialog id='1'>溫仔，跟朋友喝酒時認識的香港朋友，當年參加反送中後，來台工作避風頭，日子雖然艱辛，但也還過得去。</dialog> 		<dialog_image id='1'>1</dialog_image>
 		<dialog id='2'>但在新總統上任後，政府就不斷宣稱，這幾年的抗議活動，都是在台灣的「港獨份子」煽動的。</dialog>		<dialog_image id='2'>2</dialog_image>
-		<dialog id='3'>政府放話，加上媒體渲染，港人開始被當成恐怖份子看待，而且AR16即將到來，遣送港人的呼聲越來越激烈...</dialog>		<dialog_image id='3'>1</dialog_image>
+		<dialog id='3'>政府放話，加上媒體渲染，港人開始被當成恐怖份子看待，而且AR16即將到來，遣送港人的呼聲越來越激烈...</dialog>		<dialog_image id='3'>2</dialog_image>
 		<dialog id='4'>最近，北京正式要求台灣，引渡當年參與反送中的港人。沒多久，你接到溫仔的電話，問你知不知道可以提供庇護的管道。</dialog>		<dialog_image id='4'>1</dialog_image>
 	</quest>
 
@@ -462,15 +462,15 @@
 	<quest_result1 id='quest8'>
 		<result_text id='1'>
 
-			<dialog id='1'>溫仔不久後遭遣返回港，並於一個月後，以叛國罪被處以槍決。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>你看著新聞落下眼淚，想起那夜在酒吧，你們拉著溫仔，猛講從港片學來的粵語，笑了整個晚上。</dialog>			<dialog_image id='2'>1</dialog_image>
+			<dialog id='1'>溫仔不久後遭遣返回港，並於一個月後，以叛國罪被處以槍決。</dialog>			<dialog_image id='1'>3</dialog_image>
+			<dialog id='2'>你看著新聞落下眼淚，想起那夜在酒吧，你們拉著溫仔，猛講從港片學來的粵語，笑了整個晚上。</dialog>			<dialog_image id='2'>5</dialog_image>
 			<ending>0</ending>
 		</result_text>
 
 		<result_text id='2'>
 
-			<dialog id='1'>你透過父母的教會協助，把溫仔安置到安全的地方。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>其他被遣返的港人，則全部依叛國罪被處以槍決，引起國際社會譁然，也導致台灣政府減緩引渡，溫仔的處境暫時安全。</dialog>			<dialog_image id='2'>1</dialog_image>
+			<dialog id='1'>你透過父母的教會協助，把溫仔安置到安全的地方。</dialog>			<dialog_image id='1'>4</dialog_image>
+			<dialog id='2'>其他被遣返的港人，則全部依叛國罪被處以槍決，引起國際社會譁然，也導致台灣政府減緩引渡，溫仔的處境暫時安全。</dialog>			<dialog_image id='2'>4</dialog_image>
 			<ending>0</ending>
 		</result_text>
 	</quest_result1>
@@ -495,32 +495,32 @@
 	<quest id='quest9'>
 		<title>白色巨塔裡的風暴</title>		<title_image>1</title_image>
 		<dialog id='1'>候診室的電視上，出現醫護人員抗議的新聞。原來，2年前簽訂的服貿協議，開放中資來台投資私人醫院。</dialog> 		<dialog_image id='1'>1</dialog_image>
-		<dialog id='2'>許多醫院，都慢慢被中資掌握，有「不良台獨意識」的醫生、護理師，開始遭到解雇。公民團體呼籲政府介入，卻只得到敷衍的回答。</dialog>		<dialog_image id='2'>2</dialog_image>
-		<dialog id='3'>看診時，新的醫生不斷批評，以前醫院裡一堆不像話的醫生，「像那個J醫生喔，搞台獨比看病還厲害啦！」</dialog>		<dialog_image id='3'>1</dialog_image>
+		<dialog id='2'>許多醫院，都慢慢被中資掌握，有「不良台獨意識」的醫生、護理師，開始遭到解雇。公民團體呼籲政府介入，卻只得到敷衍的回答。</dialog>		<dialog_image id='2'>1</dialog_image>
+		<dialog id='3'>看診時，新的醫生不斷批評，以前醫院裡一堆不像話的醫生，「像那個J醫生喔，搞台獨比看病還厲害啦！」</dialog>		<dialog_image id='3'>2</dialog_image>
 	</quest>
 
 	<quest_button1 id='quest9'>
 		<question>你越想越不舒服，要反駁他嗎？</question>
-		<question_image>1</question_image>
+		<question_image>2</question_image>
 		<button id='button_1'>替J醫師打抱不平</button>
 		<button id='button_2'>算了，不要理他。</button>
 	</quest_button1>
 
 	<quest_result1 id='quest9'>
 		<result_text id='1'>
-			<dialog id='1'>你忍不住幫J反駁幾句。不久後，你發現自己居然無法掛號門診，就連打電話去，也排不進去。</dialog>			<dialog_image id='1'>1</dialog_image>
+			<dialog id='1'>你忍不住幫J反駁幾句。不久後，你發現自己居然無法掛號門診，就連打電話去，也排不進去。</dialog>			<dialog_image id='1'>3</dialog_image>
 			<ending>1</ending>
 		</result_text>
 
 		<result_text id='2'>
-			<dialog id='1'>你發現，新醫生開的藥跟以前不一樣，上網查詢後，發現這種藥比較廉價、副作用也比較高。</dialog>			<dialog_image id='1'>1</dialog_image>
+			<dialog id='1'>你發現，新醫生開的藥跟以前不一樣，上網查詢後，發現這種藥比較廉價、副作用也比較高。</dialog>			<dialog_image id='1'>4</dialog_image>
 			<ending>1</ending>
 		</result_text>
 	</quest_result1>
 
 	<quest_button2 id='quest9'>
 		<question>直覺告訴你，該換間醫院了⋯⋯</question>
-		<question_image>1</question_image>
+		<question_image>4</question_image>
 		<button id='button_1'>換一間醫院</button>
 		<button id='button_2'>換一間沒有中資的醫院</button>
 	</quest_button2>
@@ -528,15 +528,15 @@
 	<quest_result2 id='quest9'>
 		<result_text id='1'>
 
-			<dialog id='1'>你換了好幾間醫院，然而每次都拿到同一種廉價藥物，每個醫生都說，沒有其他藥可以選了</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>最終，你因為副作用併發其他疾病，在送醫途中失去意識⋯⋯⋯</dialog>			<dialog_image id='2'>1</dialog_image>
+			<dialog id='1'>你換了好幾間醫院，然而每次都拿到同一種廉價藥物，每個醫生都說，沒有其他藥可以選了</dialog>			<dialog_image id='1'>4</dialog_image>
+			<dialog id='2'>最終，你因為副作用併發其他疾病，在送醫途中失去意識⋯⋯⋯</dialog>			<dialog_image id='2'>5</dialog_image>
 			<ending>2</ending>
 		</result_text>
 
 		<result_text id='2'>
 
-			<dialog id='1'>你換了好幾間醫院，然而每次都拿到同一種廉價藥物，每個醫生都說，沒有其他藥可以選了。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>昂貴的醫療費用，讓你的生活陷入拮据，不知道還能撐多久⋯⋯</dialog>			<dialog_image id='2'>1</dialog_image>
+			<dialog id='1'>你換了好幾間醫院，然而每次都拿到同一種廉價藥物，每個醫生都說，沒有其他藥可以選了。</dialog>			<dialog_image id='1'>6</dialog_image>
+			<dialog id='2'>昂貴的醫療費用，讓你的生活陷入拮据，不知道還能撐多久⋯⋯</dialog>			<dialog_image id='2'>6</dialog_image>
 			<ending>0</ending>
 		</result_text>
 	</quest_result2>
@@ -553,7 +553,7 @@
 	<quest id='quest10'>
 		<title>我想有個家</title>		<title_image>1</title_image>
 		<dialog id='1'>又到了房子要續約的時候，房東卻說，準備把房屋轉手，要請你月底到期後就搬出去。</dialog> 		<dialog_image id='1'>1</dialog_image>
-		<dialog id='2'>原來有中國投資商，想把這一區的房子都買下來。最近每天都忙到半夜，你根本沒時間看房，還好朋友介紹了兩間給你。</dialog>		<dialog_image id='2'>2</dialog_image>
+		<dialog id='2'>原來有中國投資商，想把這一區的房子都買下來。最近每天都忙到半夜，你根本沒時間看房，還好朋友介紹了兩間給你。</dialog>		<dialog_image id='2'>1</dialog_image>
 		<dialog id='3'>一間價錢和現在差不多，但離公司更遠。另一間離公司跟小彤的學校都更近，但租金貴了2倍。</dialog>		<dialog_image id='3'>1</dialog_image>
 	</quest>
 
@@ -567,22 +567,22 @@
 	<quest_result1 id='quest10'>
 		<result_text id='1'>
 
-			<dialog id='1'>新家通勤要多花1個小時，要更早起床，送女兒上學，再匆匆趕去上班，現在你每天越睡越少。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>今天你恍神地出門，卻沒注意到，有台紅燈右轉的砂石車；你被撞倒，眼前最後的畫面，是車輪往你臉上碾來……</dialog>			<dialog_image id='2'>1</dialog_image>
+			<dialog id='1'>新家通勤要多花1個小時，要更早起床，送女兒上學，再匆匆趕去上班，現在你每天越睡越少。</dialog>			<dialog_image id='1'>2</dialog_image>
+			<dialog id='2'>今天你恍神地出門，卻沒注意到，有台紅燈右轉的砂石車；你被撞倒，眼前最後的畫面，是車輪往你臉上碾來……</dialog>			<dialog_image id='2'>3</dialog_image>
 			<ending>2</ending>
 		</result_text>
 
 		<result_text id='2'>
 
-			<dialog id='1'>你跟新房東到新家簽約，這是個嶄新的社區大樓，門口24小時警衛值班，走廊也都有監視器。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>站在門口，等房東找鑰匙時，你抬頭瞥見，卻發現門口的監視器，是之前據說，會洩漏資訊給中國公安部的品牌。</dialog>			<dialog_image id='2'>1</dialog_image>
+			<dialog id='1'>你跟新房東到新家簽約，這是個嶄新的社區大樓，門口24小時警衛值班，走廊也都有監視器。</dialog>			<dialog_image id='1'>4</dialog_image>
+			<dialog id='2'>站在門口，等房東找鑰匙時，你抬頭瞥見，卻發現門口的監視器，是之前據說，會洩漏資訊給中國公安部的品牌。</dialog>			<dialog_image id='2'>4</dialog_image>
 			<ending>1</ending>
 		</result_text>
 	</quest_result1>
 
 	<quest_button2 id='quest10'>
 		<question>感覺好像怪怪的⋯⋯</question>
-		<question_image>1</question_image>
+		<question_image>4</question_image>
 		<button id='button_1'>又沒做什麼壞事，先住再說。</button>
 		<button id='button_2'>感覺怪不舒服，還是去遠的那間好了</button>
 	</quest_button2>
@@ -590,16 +590,16 @@
 	<quest_result2 id='quest10'>
 		<result_text id='1'>
 
-			<dialog id='1'>某天你加班到半夜才回家，卻在走廊上，看到警察押著1個低頭的中年男子，大樓警衛緊跟在後。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>你想起前幾天，警衛說樓裡住了一些「不老實」的香港人，疑似是來搞革命的……</dialog>			<dialog_image id='2'>1</dialog_image>
+			<dialog id='1'>某天你加班到半夜才回家，卻在走廊上，看到警察押著1個低頭的中年男子，大樓警衛緊跟在後。</dialog>			<dialog_image id='1'>5</dialog_image>
+			<dialog id='2'>你想起前幾天，警衛說樓裡住了一些「不老實」的香港人，疑似是來搞革命的……</dialog>			<dialog_image id='2'>5</dialog_image>
 			<ending>0</ending>
 		</result_text>
 
 		<result_text id='2'>
 
-			<dialog id='1'>新家通勤要多花1個小時，要更早起床送女兒上學，再匆匆趕去上班，現在你每天越睡越少。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>你真的睡太少了，開始忘東忘西，連張三哥都對你這陣子的表現感到不耐。</dialog>			<dialog_image id='2'>1</dialog_image>
-			<dialog id='3'>「再這樣下去，公司會丟掉AR16的訂單。」終於，張三哥眼神裡充滿怒火說著，你被開除了。</dialog>			<dialog_image id='3'>1</dialog_image>
+			<dialog id='1'>新家通勤要多花1個小時，要更早起床送女兒上學，再匆匆趕去上班，現在你每天越睡越少。</dialog>			<dialog_image id='1'>2</dialog_image>
+			<dialog id='2'>你真的睡太少了，開始忘東忘西，連張三哥都對你這陣子的表現感到不耐。</dialog>			<dialog_image id='2'>6</dialog_image>
+			<dialog id='3'>「再這樣下去，公司會丟掉AR16的訂單。」終於，張三哥眼神裡充滿怒火說著，你被開除了。</dialog>			<dialog_image id='3'>6</dialog_image>
 			<ending>2</ending>
 		</result_text>
 	</quest_result2>
@@ -626,7 +626,7 @@
 
 	<quest_button1 id='quest11'>
 		<question>那是你父親。</question>
-		<question_image>1</question_image>
+		<question_image>2</question_image>
 		<button id='button_1'>不知道，沒見過欸。</button>
 		<button id='button_2'>認識啊，那是我爸。</button>
 	</quest_button1>
@@ -634,21 +634,21 @@
 	<quest_result1 id='quest11'>
 		<result_text id='1'>
 
-			<dialog id='1'>「真的不知道？」張三又問了一次。「不知道。」你把視線移往一旁。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>「哼，好！」張三轉身離去，四周的同事投來困惑的眼神。</dialog>			<dialog_image id='2'>1</dialog_image>
+			<dialog id='1'>「真的不知道？」張三又問了一次。「不知道。」你把視線移往一旁。</dialog>			<dialog_image id='1'>3</dialog_image>
+			<dialog id='2'>「哼，好！」張三轉身離去，四周的同事投來困惑的眼神。</dialog>			<dialog_image id='2'>3</dialog_image>
 			<ending>0</ending>
 		</result_text>
 
 		<result_text id='2'>
 
-			<dialog id='1'>「這樣啊，真是太巧了。」張三笑盈盈地說，</dialog>			<dialog_image id='1'>1</dialog_image>
+			<dialog id='1'>「這樣啊，真是太巧了。」張三笑盈盈地說，</dialog>			<dialog_image id='1'>3</dialog_image>
 			<ending>1</ending>
 		</result_text>
 	</quest_result1>
 
 	<quest_button2 id='quest11'>
 		<question>「我有事想找他，你能幫忙介紹一下嗎？」</question>
-		<question_image>1</question_image>
+		<question_image>3</question_image>
 		<button id='button_1'>不方便，他不太喜歡見人。</button>
 		<button id='button_2'>好啊，週末如何？</button>
 	</quest_button2>
@@ -656,16 +656,16 @@
 	<quest_result2 id='quest11'>
 		<result_text id='1'>
 
-			<dialog id='1'>「這樣啊，真的不行⋯⋯？」「真的不方便。」你轉開視線，背後冷汗直流。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>之後張三不斷找你麻煩，「訂單都要被你毀掉了！」終於有一天，張三說你被開除了。</dialog>			<dialog_image id='2'>1</dialog_image>
+			<dialog id='1'>「這樣啊，真的不行⋯⋯？」「真的不方便。」你轉開視線，背後冷汗直流。</dialog>			<dialog_image id='1'>3</dialog_image>
+			<dialog id='2'>之後張三不斷找你麻煩，「訂單都要被你毀掉了！」終於有一天，張三說你被開除了。</dialog>			<dialog_image id='2'>7</dialog_image>
 			<ending>2</ending>
 		</result_text>
 
 		<result_text id='2'>
 
-			<dialog id='1'>雖然父親充滿疑惑，但還是同意。你們約了週末在父母家裡見面。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>你準備返家時，張三突然來電，要你立刻回公司處理急件。終於忙完要趕過去時，張三卻說，他們已經聊完了。</dialog>			<dialog_image id='2'>1</dialog_image>
-			<dialog id='3'>某天晚上，母親突然打電話給你，說教會被搜查，他們正在逃亡路上，並告訴你要小心那個叫張三的……</dialog>			<dialog_image id='3'>1</dialog_image>
+			<dialog id='1'>雖然父親充滿疑惑，但還是同意。你們約了週末在父母家裡見面。</dialog>			<dialog_image id='1'>4</dialog_image>
+			<dialog id='2'>你準備返家時，張三突然來電，要你立刻回公司處理急件。終於忙完要趕過去時，張三卻說，他們已經聊完了。</dialog>			<dialog_image id='2'>5</dialog_image>
+			<dialog id='3'>某天晚上，母親突然打電話給你，說教會被搜查，他們正在逃亡路上，並告訴你要小心那個叫張三的……</dialog>			<dialog_image id='3'>6</dialog_image>
 			<ending>0</ending>
 		</result_text>
 	</quest_result2>
@@ -687,16 +687,16 @@
 		<title>END GAME</title>		<title_image>1</title_image>
 		<dialog id='1'> </dialog> 		<dialog_image id='1'>1</dialog_image>
 		<dialog id='2'> </dialog>		<dialog_image id='2'>2</dialog_image>
-		<dialog id='3'> </dialog>		<dialog_image id='3'>1</dialog_image>
-		<dialog id='4'>明天是AR16最後一天議程，網路上，早就傳得沸沸揚揚，總統將與中國國家主席，簽訂「泛亞太安全條約」，</dialog>		<dialog_image id='4'>1</dialog_image>
-		<dialog id='5'>以後如有要情況，中國可以「調派人手」，協助台灣維護治安，以及對抗外國勢力侵犯。</dialog>		<dialog_image id='5'>1</dialog_image>
-		<dialog id='6'>Telegram和AirDrop上都說，明早要集結最後一搏。你找藉口，請朋友照顧女兒，但仍然猶豫，到底要不要去。</dialog>		<dialog_image id='6'>1</dialog_image>
-		<dialog id='7'>下班後，你踅了大半個晚上，思緒一片混亂，最後你狼狽地回家，癱倒在地上，此時手機裡正好傳來訊息：</dialog>		<dialog_image id='7'>1</dialog_image>
+		<dialog id='3'> </dialog>		<dialog_image id='3'>3</dialog_image>
+		<dialog id='4'>明天是AR16最後一天議程，網路上，早就傳得沸沸揚揚，總統將與中國國家主席，簽訂「泛亞太安全條約」，</dialog>		<dialog_image id='4'>4</dialog_image>
+		<dialog id='5'>以後如有要情況，中國可以「調派人手」，協助台灣維護治安，以及對抗外國勢力侵犯。</dialog>		<dialog_image id='5'>4</dialog_image>
+		<dialog id='6'>Telegram和AirDrop上都說，明早要集結最後一搏。你找藉口，請朋友照顧女兒，但仍然猶豫，到底要不要去。</dialog>		<dialog_image id='6'>4</dialog_image>
+		<dialog id='7'>下班後，你踅了大半個晚上，思緒一片混亂，最後你狼狽地回家，癱倒在地上，此時手機裡正好傳來訊息：</dialog>		<dialog_image id='7'>4</dialog_image>
 	</quest>
 
 	<quest_button1 id='quest12'>
 		<question>真的要一起去抗議嗎？</question>
-		<question_image>1</question_image>
+		<question_image>5</question_image>
 		<button id='button_1'>去吧，來載我</button>
 		<button id='button_2'>我……沒辦法決定啊……</button>
 	</quest_button1>
@@ -704,18 +704,18 @@
 	<quest_result1 id='quest12'>
 		<result_text id='1'>
 
-			<dialog id='1'>你們一大早抵達現場，戴上口罩，周遭陸續聚集了穿著黑衣的人群，有人拿著布條，有人拿著旗幟。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>突然間，人群開始喊：「警察打人了！」、「快撤啊！」人群騷動了起來，朋友拉著你往後跑。</dialog>			<dialog_image id='2'>1</dialog_image>
-			<dialog id='3'>你們沒命地跑，有人躲進捷運站，警察卻追進去，發射催淚彈；有人躲進小巷子，但卻被不明的白衣人毆打。</dialog>			<dialog_image id='3'>1</dialog_image>
+			<dialog id='1'>你們一大早抵達現場，戴上口罩，周遭陸續聚集了穿著黑衣的人群，有人拿著布條，有人拿著旗幟。</dialog>			<dialog_image id='1'>6</dialog_image>
+			<dialog id='2'>突然間，人群開始喊：「警察打人了！」、「快撤啊！」人群騷動了起來，朋友拉著你往後跑。</dialog>			<dialog_image id='2'>7</dialog_image>
+			<dialog id='3'>你們沒命地跑，有人躲進捷運站，警察卻追進去，發射催淚彈；有人躲進小巷子，但卻被不明的白衣人毆打。</dialog>			<dialog_image id='3'>7</dialog_image>
 
 			<ending>2</ending>
 		</result_text>
 
 		<result_text id='2'>
 
-			<dialog id='1'>你在不知不覺中睡去，醒來已經接近中午，手機上滿是AR16的訊息，抗爭遭到強力鎮壓，到處都是有人被打到頭破血流的照片。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>此時朋友們傳訊息說，他們受了傷，想借你家休息。「來吧。」你換了衣服，下樓準備接人，卻見到——</dialog>			<dialog_image id='2'>1</dialog_image>
-			<dialog id='3'>「你的女兒呢？」張三站在門口，背後一群警察壓著你的朋友，「你認識這些暴徒嗎？」</dialog>			<dialog_image id='3'>1</dialog_image>
+			<dialog id='1'>你在不知不覺中睡去，醒來已經接近中午，手機上滿是AR16的訊息，抗爭遭到強力鎮壓，到處都是有人被打到頭破血流的照片。</dialog>			<dialog_image id='1'>7</dialog_image>
+			<dialog id='2'>此時朋友們傳訊息說，他們受了傷，想借你家休息。「來吧。」你換了衣服，下樓準備接人，卻見到——</dialog>			<dialog_image id='2'>9</dialog_image>
+			<dialog id='3'>「你的女兒呢？」張三站在門口，背後一群警察壓著你的朋友，「你認識這些暴徒嗎？」</dialog>			<dialog_image id='3'>10</dialog_image>
 			<ending>2</ending>
 		</result_text>
 	</quest_result1>
@@ -728,16 +728,16 @@
 		<title>END GAME</title>		<title_image>1</title_image>
 		<dialog id='1'> </dialog> 		<dialog_image id='1'>1</dialog_image>
 		<dialog id='2'> </dialog>		<dialog_image id='2'>2</dialog_image>
-		<dialog id='3'> </dialog>		<dialog_image id='3'>1</dialog_image>
-		<dialog id='4'>明天是AR16最後一天議程，網路上，早就傳得沸沸揚揚，總統將與中國國家主席，簽訂「泛亞太安全條約」，</dialog>		<dialog_image id='4'>1</dialog_image>
-		<dialog id='5'>以後如有要情況，中國可以「調派人手」，協助台灣維護治安，以及對抗外國勢力侵犯。</dialog>		<dialog_image id='5'>1</dialog_image>
-		<dialog id='6'>Telegram和AirDrop上都說，明早要集結最後一搏。你找藉口，請朋友照顧女兒，但仍然猶豫，到底要不要去。</dialog>		<dialog_image id='6'>1</dialog_image>
-		<dialog id='7'>下班後，你踅了大半個晚上，思緒一片混亂，最後你狼狽地回家，癱倒在地上，此時手機裡正好傳來訊息：</dialog>		<dialog_image id='7'>1</dialog_image>
+		<dialog id='3'> </dialog>		<dialog_image id='3'>3</dialog_image>
+		<dialog id='4'>明天是AR16最後一天議程，網路上，早就傳得沸沸揚揚，總統將與中國國家主席，簽訂「泛亞太安全條約」，</dialog>		<dialog_image id='4'>4</dialog_image>
+		<dialog id='5'>以後如有要情況，中國可以「調派人手」，協助台灣維護治安，以及對抗外國勢力侵犯。</dialog>		<dialog_image id='5'>4</dialog_image>
+		<dialog id='6'>Telegram和AirDrop上都說，明早要集結最後一搏。你找藉口，請朋友照顧女兒，但仍然猶豫，到底要不要去。</dialog>		<dialog_image id='6'>4</dialog_image>
+		<dialog id='7'>下班後，你踅了大半個晚上，思緒一片混亂，最後你狼狽地回家，癱倒在地上，此時手機裡正好傳來訊息：</dialog>		<dialog_image id='7'>4</dialog_image>
 	</quest>
 
 	<quest_button1 id='quest13'>
 		<question>真的要一起去抗議嗎？</question>
-		<question_image>1</question_image>
+		<question_image>5</question_image>
 		<button id='button_1'>去吧，來載我</button>
 		<button id='button_2'>我……沒辦法決定啊……</button>
 	</quest_button1>
@@ -745,27 +745,30 @@
 	<quest_result1 id='quest13'>
 		<result_text id='1'>
 
-			<dialog id='1'>你們一大早抵達現場，戴上口罩，周遭陸續聚集了穿著黑衣的人群，有人拿著布條，有人拿著旗幟。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>突然間，人群開始喊：「警察打人了！」、「快撤啊！」人群騷動了起來，朋友拉著你往後跑。</dialog>			<dialog_image id='2'>2</dialog_image>
-			<dialog id='3'>你們沒命地跑，有人躲進捷運站，警察卻追進去，發射催淚彈；有人躲進小巷子，但卻被不明的白衣人毆打。</dialog>			<dialog_image id='3'>3</dialog_image>
-			<dialog id='4'>逃離現場後，你疲累地回家，等到覺得應該沒問題了，才把小彤接回家。</dialog>			<dialog_image id='4'>4</dialog_image>
-			<dialog id='5'>那天夜裡，自稱是警察的人破門而入，在女兒面前，將你拖走...</dialog>			<dialog_image id='5'>5</dialog_image>
-			<dialog id='6'>你想起自己一路面臨的所有選擇，彷彿其實別無選擇，最後必定會走到這一步⋯⋯</dialog>			<dialog_image id='6'>6</dialog_image>
+			<dialog id='1'>你們一大早抵達現場，戴上口罩，周遭陸續聚集了穿著黑衣的人群，有人拿著布條，有人拿著旗幟。</dialog>			<dialog_image id='1'>6</dialog_image>
+			<dialog id='2'>突然間，人群開始喊：「警察打人了！」、「快撤啊！」人群騷動了起來，朋友拉著你往後跑。</dialog>			<dialog_image id='2'>7</dialog_image>
+			<dialog id='3'>你們沒命地跑，有人躲進捷運站，警察卻追進去，發射催淚彈；有人躲進小巷子，但卻被不明的白衣人毆打。</dialog>			<dialog_image id='3'>7</dialog_image>
+			<dialog id='4'>逃離現場後，你疲累地回家，等到覺得應該沒問題了，才把小彤接回家。</dialog>			<dialog_image id='4'>7</dialog_image>
+			<dialog id='5'>那天夜裡，自稱是警察的人破門而入，在女兒面前，將你拖走...</dialog>			<dialog_image id='5'>8</dialog_image>
+			<dialog id='6'>你想起自己一路面臨的所有選擇，彷彿其實別無選擇，最後必定會走到這一步⋯⋯</dialog>			<dialog_image id='6'>8</dialog_image>
 			<ending>0</ending>
 		</result_text>
 
 		<result_text id='2'>
 
-			<dialog id='1'>你在不知不覺中睡去，醒來已經接近中午，手機上滿是AR16的訊息，抗爭遭到強力鎮壓，到處都是有人被打到頭破血流的照片。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>此時朋友們傳訊息說，他們受了傷，想借你家休息。「來吧。」你換了衣服，下樓準備接人，卻見到——</dialog>			<dialog_image id='2'>2</dialog_image>
-			<dialog id='3'>「你的女兒呢？」張三站在門口，背後一群警察壓著你的朋友，「你認識這些暴徒嗎？」</dialog>			<dialog_image id='3'>3</dialog_image>
+			<dialog id='1'>你在不知不覺中睡去，醒來已經接近中午，手機上滿是AR16的訊息，抗爭遭到強力鎮壓，到處都是有人被打到頭破血流的照片。</dialog>		<dialog_image id='1'>7</dialog_image>
+			<dialog id='2'>此時朋友們傳訊息說，他們受了傷，想借你家休息。「來吧。」你換了衣服，下樓準備接人，卻見到——</dialog>			<dialog_image id='2'>9</dialog_image>
+			<dialog id='3'>「你的女兒呢？」張三站在門口，背後一群警察壓著你的朋友，「你認識這些暴徒嗎？」</dialog>			<dialog_image id='3'>10</dialog_image>
+			<dialog id='4'>「抓住他！」張三沒等你回答便下令，2名警察衝上前，把你按倒在地。</dialog>			<dialog_image id='3'>10</dialog_image>
+			<dialog id='5'>你被帶上警車，心底有種感覺，此生再也見不到女兒。</dialog>			<dialog_image id='3'>10</dialog_image>
+			<dialog id='6'>你想起自己一路面臨的所有選擇，彷彿其實別無選擇，最後必定會走到這一步⋯⋯</dialog>			<dialog_image id='3'>10</dialog_image>
 			<ending>1</ending>
 		</result_text>
 	</quest_result1>
 
 	<quest_button2 id='quest13'>
 		<question>「他們是你朋友嗎？」張三追問。</question>
-		<question_image>1</question_image>
+		<question_image>10</question_image>
 		<button id='button_1'>「是……」</button>
 		<button id='button_2'>「不是，我不認識他們⋯⋯」</button>
 	</quest_button2>
@@ -773,18 +776,18 @@
 	<quest_result2 id='quest13'>
 		<result_text id='1'>
 
-			<dialog id='1'>「抓住他！」張三大吼，兩名警衛衝上前，把你按倒在地。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>你被帶上警車，心底有種感覺，此生再也見不到女兒了。</dialog>			<dialog_image id='2'>2</dialog_image>
-			<dialog id='3'>你想起自己一路面臨的所有選擇，彷彿其實別無選擇，最後必定會走到這一步⋯⋯</dialog>			<dialog_image id='3'>2</dialog_image>
+			<dialog id='1'>「抓住他！」張三大吼，兩名警衛衝上前，把你按倒在地。</dialog>			<dialog_image id='1'>10</dialog_image>
+			<dialog id='2'>你被帶上警車，心底有種感覺，此生再也見不到女兒了。</dialog>			<dialog_image id='2'>11</dialog_image>
+			<dialog id='3'>你想起自己一路面臨的所有選擇，彷彿其實別無選擇，最後必定會走到這一步⋯⋯</dialog>			<dialog_image id='3'>10</dialog_image>
 			<ending>2</ending>
 		</result_text>
 
 		<result_text id='2'>
 
-			<dialog id='1'>「這樣啊……」張三笑著說，「好好放假吧，小心一點，最近很亂喔……」說罷，他帶著警察，將朋友們押走。</dialog>			<dialog_image id='1'>1</dialog_image>
-			<dialog id='2'>一個月後，你帶著女兒，搭上飛往舊金山的班機。此時因為抗爭AR16被逮捕的人，已經超過百名，各地衝突不斷升級。</dialog>			<dialog_image id='2'>2</dialog_image>
-			<dialog id='3'>你們在父母的協助下，找到政治庇護，飛往美國；庇護的名額很少，父母把機會讓給你們，「你們年輕的先逃吧。」</dialog>			<dialog_image id='3'>3</dialog_image>
-			<dialog id='4'>你看著島嶼逐漸縮小，想起自己一路面臨的所有選擇，彷彿其實別無選擇，最後必定會走到這一步⋯⋯</dialog>			<dialog_image id='4'>2</dialog_image>
+			<dialog id='1'>「這樣啊……」張三笑著說，「好好放假吧，小心一點，最近很亂喔……」說罷，他帶著警察，將朋友們押走。</dialog>			<dialog_image id='1'>10</dialog_image>
+			<dialog id='2'>一個月後，你帶著女兒，搭上飛往舊金山的班機。此時因為抗爭AR16被逮捕的人，已經超過百名，各地衝突不斷升級。</dialog>			<dialog_image id='2'>10</dialog_image>
+			<dialog id='3'>你們在父母的協助下，找到政治庇護，飛往美國；庇護的名額很少，父母把機會讓給你們，「你們年輕的先逃吧。」</dialog>			<dialog_image id='3'>12</dialog_image>
+			<dialog id='4'>你看著島嶼逐漸縮小，想起自己一路面臨的所有選擇，彷彿其實別無選擇，最後必定會走到這一步⋯⋯</dialog>			<dialog_image id='4'>12</dialog_image>
 			<ending>2</ending>
 		</result_text>
 	</quest_result2>
@@ -799,12 +802,12 @@
 	<quest id='quest14'>
 		<title>ending</title>		<title_image>1</title_image>
 		<dialog id='1'>到底要怎麼樣，才能阻止這一切發生……</dialog> 		<dialog_image id='1'>1</dialog_image>
-		<dialog id='2'>你回想一路以來，每一次的抉擇，到底，哪一步選錯了⋯⋯</dialog>		<dialog_image id='2'>2</dialog_image>
+		<dialog id='2'>你回想一路以來，每一次的抉擇，到底，哪一步選錯了⋯⋯</dialog>		<dialog_image id='2'>1</dialog_image>
 		<dialog id='3'>你閉上雙眼，思緒在悲痛裡，緩緩飄回幾年前，</dialog>		<dialog_image id='3'>1</dialog_image>
-		<dialog id='4'>如果當初，有做對選擇，或許後來，就不用這麼痛苦了⋯⋯</dialog>		<dialog_image id='4'>1</dialog_image>
-		<dialog id='5'>「我已經來不及了，還有選擇的你，」</dialog>		<dialog_image id='5'>1</dialog_image>
+		<dialog id='4'>如果當初，有做對選擇，或許後來，就不用這麼痛苦了⋯⋯</dialog>		<dialog_image id='4'>2</dialog_image>
+		<dialog id='5'>「我已經來不及了，還有選擇的你，」</dialog>		<dialog_image id='5'>3</dialog_image>
 		<dialog id='6'>「拜託了。」</dialog>		<dialog_image id='6'>1</dialog_image>
-		<dialog id='7'> </dialog>		<dialog_image id='7'>1</dialog_image>
+		<dialog id='7'> </dialog>		<dialog_image id='7'>4</dialog_image>
 		<ending>3</ending>
 	</quest>
 
