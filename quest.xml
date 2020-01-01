@@ -116,7 +116,7 @@
 		<result_text id='2'>
 //問題1點擊按鈕2之後的對話
 			<dialog id='1'>隔天中午，你在吃飯時看到新聞，螢幕上出現一張沾滿鮮血的臉⋯⋯那是畢畢。</dialog>											<dialog_image id='1'>5</dialog_image>
-			<dialog id='2'>原來，一群白衣人突然闖進挺同群眾裡，手持棍棒四處攻擊；畢畢在鏡頭前哀嚎倒下，你手中的筷子，則愣得掉到地上。</dialog>			<dialog_image id='2'>6</dialog_image>
+			<dialog id='2'>原來，一群白衣人突然闖進挺同群眾裡，手持棍棒四處攻擊；畢畢在鏡頭前哀嚎倒下，你手中的筷子，則愣得掉到地上。</dialog>			<dialog_image id='2'>5</dialog_image>
 			<ending>0</ending>
 		</result_text>
 	</quest_result1>
