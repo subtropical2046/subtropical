@@ -72,7 +72,7 @@
 //問題2點擊按鈕2之後的對話
 			<dialog id='1'>隔沒幾天，公司又傳來群組信，說有掌握了參加連署的名單同事名單，同時，發起連署的年輕人，紛紛受到解僱。</dialog>			<dialog_image id='1'>6</dialog_image>
 			<dialog id='2'>你在心理暗自喘了口氣，還好沒有參與⋯⋯</dialog>																	<dialog_image id='2'>6</dialog_image>
-			<ending>2</ending>
+			<ending>3</ending>
 		</result_text>
 	</quest_result2>
 	<info id='quest1'>
@@ -178,7 +178,7 @@
 			<dialog id='1'>你連絡立委召開記者會，會後輿論嘩然，體育署長因此出面致歉，並承諾會懲處相關人員。</dialog>			<dialog_image id='1'>6</dialog_image>
 			<dialog id='2'>然而，其他代表隊的家長，卻紛紛出面指控你涉嫌「虐待孩童」、「靠炒作小孩獲利」，新聞焦點開始轉移到你身上，同時，女兒也從代表隊名單裡被移除……</dialog>		<dialog_image id='2'>4</dialog_image>
 			<dialog id='3'>最後，公司因不堪輿論壓力，而將你資遣，社會局則以不知哪來的資料，剝奪你對女兒的監護權……</dialog>			<dialog_image id='3'>4</dialog_image>
-			<ending>2</ending>
+			<ending>3</ending>
 		</result_text>
 
 		<result_text id='2'>
@@ -250,7 +250,7 @@
 			<dialog id='1'>你想起童年，偷買的漫畫被撕掉、遊戲機被砸爛，偷看電視被罰跪到天亮，隔天你發高燒，父親只說自作自受。</dialog>			<dialog_image id='1'>6</dialog_image>
 			<dialog id='2'>你不想讓女兒被他們照顧，於是你讓小彤繼續待在安親班。</dialog>			<dialog_image id='2'>6</dialog_image>
 			<dialog id='3'>某天，你收到醫院緊急通知，安親班因管理疏失，小孩集體感染變種腸病毒⋯⋯幾天後，小彤在加護病房內死去，留下你孤零零一個人。</dialog>			<dialog_image id='3'>7</dialog_image>
-			<ending>2</ending>
+			<ending>3</ending>
 		</result_text>
 	</quest_result2>
 
