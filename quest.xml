@@ -357,7 +357,7 @@
 			<dialog id='1'>由於官方刻意隱藏消息，H5N9疫情大爆發，就連你也被感染，只能把女兒託付別人照顧，自己住進隔離病房。</dialog>			<dialog_image id='1'>6</dialog_image>
 			<dialog id='2'>與病魔奮鬥多天後，你疲累萬分，視線跟意識都開始模糊，</dialog>			<dialog_image id='2'>7</dialog_image>
 			<dialog id='3'>你聽到電視上，官員互相推卸責任；但你已經沒有力氣憤怒，只能任由病魔慢慢把你帶離這個世界⋯⋯</dialog>			<dialog_image id='3'>8</dialog_image>
-			<ending>2</ending>
+			<ending>3</ending>
 		</result_text>
 	</quest_result1>
 
@@ -382,7 +382,7 @@
 			<dialog id='1'>由於官方刻意打壓消息，疫情後來大爆發，就連你也被感染，只能把女兒託付別人照顧，自己住進隔離病房。</dialog>		<dialog_image id='1'>6</dialog_image>
 			<dialog id='2'>與病魔奮鬥多天後，你疲累萬分，視線跟意識都開始模糊，</dialog>												<dialog_image id='2'>7</dialog_image>
 			<dialog id='3'>你聽到電視上，官員互相推卸責任；但你已經沒有力氣憤怒，只能任由病魔慢慢把你帶離這個世界⋯⋯</dialog>			<dialog_image id='3'>8</dialog_image>
-			<ending>2</ending>
+			<ending>3</ending>
 		</result_text>
 	</quest_result2>
 
@@ -530,7 +530,7 @@
 
 			<dialog id='1'>你換了好幾間醫院，然而每次都拿到同一種廉價藥物，每個醫生都說，沒有其他藥可以選了</dialog>			<dialog_image id='1'>4</dialog_image>
 			<dialog id='2'>最終，你因為副作用併發其他疾病，在送醫途中失去意識⋯⋯⋯</dialog>			<dialog_image id='2'>5</dialog_image>
-			<ending>2</ending>
+			<ending>3</ending>
 		</result_text>
 
 		<result_text id='2'>
@@ -569,7 +569,7 @@
 
 			<dialog id='1'>新家通勤要多花1個小時，要更早起床，送女兒上學，再匆匆趕去上班，現在你每天越睡越少。</dialog>			<dialog_image id='1'>2</dialog_image>
 			<dialog id='2'>今天你恍神地出門，卻沒注意到，有台紅燈右轉的砂石車；你被撞倒，眼前最後的畫面，是車輪往你臉上碾來……</dialog>			<dialog_image id='2'>3</dialog_image>
-			<ending>2</ending>
+			<ending>3</ending>
 		</result_text>
 
 		<result_text id='2'>
@@ -600,7 +600,7 @@
 			<dialog id='1'>新家通勤要多花1個小時，要更早起床送女兒上學，再匆匆趕去上班，現在你每天越睡越少。</dialog>			<dialog_image id='1'>2</dialog_image>
 			<dialog id='2'>你真的睡太少了，開始忘東忘西，連張三哥都對你這陣子的表現感到不耐。</dialog>			<dialog_image id='2'>6</dialog_image>
 			<dialog id='3'>「再這樣下去，公司會丟掉AR16的訂單。」終於，張三哥眼神裡充滿怒火說著，你被開除了。</dialog>			<dialog_image id='3'>6</dialog_image>
-			<ending>2</ending>
+			<ending>3</ending>
 		</result_text>
 	</quest_result2>
 
@@ -658,7 +658,7 @@
 
 			<dialog id='1'>「這樣啊，真的不行⋯⋯？」「真的不方便。」你轉開視線，背後冷汗直流。</dialog>			<dialog_image id='1'>3</dialog_image>
 			<dialog id='2'>之後張三不斷找你麻煩，「訂單都要被你毀掉了！」終於有一天，張三說你被開除了。</dialog>			<dialog_image id='2'>7</dialog_image>
-			<ending>2</ending>
+			<ending>3</ending>
 		</result_text>
 
 		<result_text id='2'>
@@ -707,8 +707,11 @@
 			<dialog id='1'>你們一大早抵達現場，戴上口罩，周遭陸續聚集了穿著黑衣的人群，有人拿著布條，有人拿著旗幟。</dialog>			<dialog_image id='1'>6</dialog_image>
 			<dialog id='2'>突然間，人群開始喊：「警察打人了！」、「快撤啊！」人群騷動了起來，朋友拉著你往後跑。</dialog>			<dialog_image id='2'>7</dialog_image>
 			<dialog id='3'>你們沒命地跑，有人躲進捷運站，警察卻追進去，發射催淚彈；有人躲進小巷子，但卻被不明的白衣人毆打。</dialog>			<dialog_image id='3'>7</dialog_image>
+			<dialog id='4'>逃離現場後，你疲累地回家，等到覺得應該沒問題了，才把小彤接回家。</dialog>			<dialog_image id='4'>7</dialog_image>
+			<dialog id='5'>那天夜裡，自稱是警察的人破門而入，在女兒面前，將你拖走...</dialog>			<dialog_image id='5'>8</dialog_image>
+			<dialog id='6'>你想起自己一路面臨的所有選擇，彷彿其實別無選擇，最後必定會走到這一步⋯⋯</dialog>			<dialog_image id='6'>8</dialog_image>
 
-			<ending>2</ending>
+			<ending>3</ending>
 		</result_text>
 
 		<result_text id='2'>
@@ -716,7 +719,10 @@
 			<dialog id='1'>你在不知不覺中睡去，醒來已經接近中午，手機上滿是AR16的訊息，抗爭遭到強力鎮壓，到處都是有人被打到頭破血流的照片。</dialog>			<dialog_image id='1'>7</dialog_image>
 			<dialog id='2'>此時朋友們傳訊息說，他們受了傷，想借你家休息。「來吧。」你換了衣服，下樓準備接人，卻見到——</dialog>			<dialog_image id='2'>9</dialog_image>
 			<dialog id='3'>「你的女兒呢？」張三站在門口，背後一群警察壓著你的朋友，「你認識這些暴徒嗎？」</dialog>			<dialog_image id='3'>10</dialog_image>
-			<ending>2</ending>
+			<dialog id='4'>「抓住他！」張三沒等你回答便下令，2名警察衝上前，把你按倒在地。</dialog>			<dialog_image id='3'>10</dialog_image>
+			<dialog id='5'>你被帶上警車，心底有種感覺，此生再也見不到女兒。</dialog>			<dialog_image id='3'>10</dialog_image>
+			<dialog id='6'>你想起自己一路面臨的所有選擇，彷彿其實別無選擇，最後必定會走到這一步⋯⋯</dialog>			<dialog_image id='3'>10</dialog_image>
+			<ending>3</ending>
 		</result_text>
 	</quest_result1>
 
@@ -748,9 +754,7 @@
 			<dialog id='1'>你們一大早抵達現場，戴上口罩，周遭陸續聚集了穿著黑衣的人群，有人拿著布條，有人拿著旗幟。</dialog>			<dialog_image id='1'>6</dialog_image>
 			<dialog id='2'>突然間，人群開始喊：「警察打人了！」、「快撤啊！」人群騷動了起來，朋友拉著你往後跑。</dialog>			<dialog_image id='2'>7</dialog_image>
 			<dialog id='3'>你們沒命地跑，有人躲進捷運站，警察卻追進去，發射催淚彈；有人躲進小巷子，但卻被不明的白衣人毆打。</dialog>			<dialog_image id='3'>7</dialog_image>
-			<dialog id='4'>逃離現場後，你疲累地回家，等到覺得應該沒問題了，才把小彤接回家。</dialog>			<dialog_image id='4'>7</dialog_image>
-			<dialog id='5'>那天夜裡，自稱是警察的人破門而入，在女兒面前，將你拖走...</dialog>			<dialog_image id='5'>8</dialog_image>
-			<dialog id='6'>你想起自己一路面臨的所有選擇，彷彿其實別無選擇，最後必定會走到這一步⋯⋯</dialog>			<dialog_image id='6'>8</dialog_image>
+
 			<ending>1</ending>
 		</result_text>
 
@@ -759,9 +763,7 @@
 			<dialog id='1'>你在不知不覺中睡去，醒來已經接近中午，手機上滿是AR16的訊息，抗爭遭到強力鎮壓，到處都是有人被打到頭破血流的照片。</dialog>		<dialog_image id='1'>7</dialog_image>
 			<dialog id='2'>此時朋友們傳訊息說，他們受了傷，想借你家休息。「來吧。」你換了衣服，下樓準備接人，卻見到——</dialog>			<dialog_image id='2'>9</dialog_image>
 			<dialog id='3'>「你的女兒呢？」張三站在門口，背後一群警察壓著你的朋友，「你認識這些暴徒嗎？」</dialog>			<dialog_image id='3'>10</dialog_image>
-			<dialog id='4'>「抓住他！」張三沒等你回答便下令，2名警察衝上前，把你按倒在地。</dialog>			<dialog_image id='3'>10</dialog_image>
-			<dialog id='5'>你被帶上警車，心底有種感覺，此生再也見不到女兒。</dialog>			<dialog_image id='3'>10</dialog_image>
-			<dialog id='6'>你想起自己一路面臨的所有選擇，彷彿其實別無選擇，最後必定會走到這一步⋯⋯</dialog>			<dialog_image id='3'>10</dialog_image>
+
 			<ending>1</ending>
 		</result_text>
 	</quest_result1>
@@ -779,7 +781,7 @@
 			<dialog id='1'>「抓住他！」張三大吼，兩名警衛衝上前，把你按倒在地。</dialog>			<dialog_image id='1'>10</dialog_image>
 			<dialog id='2'>你被帶上警車，心底有種感覺，此生再也見不到女兒了。</dialog>			<dialog_image id='2'>11</dialog_image>
 			<dialog id='3'>你想起自己一路面臨的所有選擇，彷彿其實別無選擇，最後必定會走到這一步⋯⋯</dialog>			<dialog_image id='3'>10</dialog_image>
-			<ending>2</ending>
+			<ending>3</ending>
 		</result_text>
 
 		<result_text id='2'>
