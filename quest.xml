@@ -72,7 +72,7 @@
 //問題2點擊按鈕2之後的對話
 			<dialog id='1'>隔沒幾天，公司又傳來群組信，說有掌握了參加連署的名單同事名單，同時，發起連署的年輕人，紛紛受到解僱。</dialog>			<dialog_image id='1'>6</dialog_image>
 			<dialog id='2'>你在心理暗自喘了口氣，還好沒有參與⋯⋯</dialog>																	<dialog_image id='2'>6</dialog_image>
-			<ending>3</ending>
+			<ending>0</ending>
 		</result_text>
 	</quest_result2>
 	<info id='quest1'>
