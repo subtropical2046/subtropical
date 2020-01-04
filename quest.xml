@@ -299,7 +299,7 @@
 
 	<quest_button2 id='quest5'>
 		<question>要舉報王夏自保嗎？</question>
-		<question_image>4</question_image>
+		<question_image>3</question_image>
 		<button id='button_1'>偷偷舉報王夏。</button>
 		<button id='button_2'>不管了，跟著一起大聲唱。</button>
 	</quest_button2>
@@ -711,7 +711,7 @@
 			<dialog id='5'>那天夜裡，自稱是警察的人破門而入，在女兒面前，將你拖走...</dialog>			<dialog_image id='5'>8</dialog_image>
 			<dialog id='6'>你想起自己一路面臨的所有選擇，彷彿其實別無選擇，最後必定會走到這一步⋯⋯</dialog>			<dialog_image id='6'>8</dialog_image>
 
-			<ending>3</ending>
+			<ending>2</ending>
 		</result_text>
 
 		<result_text id='2'>
@@ -722,7 +722,7 @@
 			<dialog id='4'>「抓住他！」張三沒等你回答便下令，2名警察衝上前，把你按倒在地。</dialog>			<dialog_image id='3'>10</dialog_image>
 			<dialog id='5'>你被帶上警車，心底有種感覺，此生再也見不到女兒。</dialog>			<dialog_image id='3'>10</dialog_image>
 			<dialog id='6'>你想起自己一路面臨的所有選擇，彷彿其實別無選擇，最後必定會走到這一步⋯⋯</dialog>			<dialog_image id='3'>10</dialog_image>
-			<ending>3</ending>
+			<ending>2</ending>
 		</result_text>
 	</quest_result1>
 
