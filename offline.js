@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1578319307,
+	"version": 1578321391,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -140,6 +140,8 @@
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
+		"icon-16.png",
+		"icon-32.png",
 		"quest.xml"
 	]
 }
