@@ -787,7 +787,7 @@
 		<result_text id='2'>
 
 			<dialog id='1'>「這樣啊……」張三笑著說，「好好放假吧，小心一點，最近很亂喔……」說罷，他帶著警察，將朋友們押走。</dialog>			<dialog_image id='1'>10</dialog_image>
-			<dialog id='2'>一個月後，你帶著女兒，搭上飛往舊金山的班機。此時因為抗爭AR16被逮捕的人，已經超過百名，各地衝突不斷升級。</dialog>			<dialog_image id='2'>10</dialog_image>
+			<dialog id='2'>一個月後，你帶著女兒，搭上飛往舊金山的班機。此時因為抗爭AR16被逮捕的人，已經超過百名，各地衝突不斷升級。</dialog>			<dialog_image id='2'>12</dialog_image>
 			<dialog id='3'>你們在父母的協助下，找到政治庇護，飛往美國；庇護的名額很少，父母把機會讓給你們，「你們年輕的先逃吧。」</dialog>			<dialog_image id='3'>12</dialog_image>
 			<dialog id='4'>你看著島嶼逐漸縮小，想起自己一路面臨的所有選擇，彷彿其實別無選擇，最後必定會走到這一步⋯⋯</dialog>			<dialog_image id='4'>12</dialog_image>
 			<ending>2</ending>
