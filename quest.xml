@@ -190,11 +190,11 @@
 	</quest_result2>
 
 	<info id='quest3'>
-		<info_button id='1'>12強賽》我西文簡介成「中國台北」 棒協：概括承受</info_button>
+		<info_button id='1'>12強賽》我西文簡介成「中國台北」 棒協：概括承受(2019.11.10)</info_button>
 		<info_link id='1'>https://sports.ltn.com.tw/news/paper/1330827</info_link>
-		<info_button id='2'>紐西蘭藏族少年無法參加國際足球賽</info_button>
+		<info_button id='2'>紐西蘭藏族少年無法參加國際足球賽(2019.07.02)</info_button>
 		<info_link id='2'>https://tinyurl.com/y6p5zuna</info_link>
-		<info_button id='3'>台灣目前體協被掌握的狀況</info_button>
+		<info_button id='3'>台灣目前體協被掌握的狀況」改為「裁判、教練都是自己人！揭三大家族掌控體壇黑幕（2017.07.27）</info_button>
 		<info_link id='3'>https://tinyurl.com/yy7x8vy5</info_link>
 	</info>
 
@@ -542,10 +542,10 @@
 	</quest_result2>
 
 	<info id='quest9'>
-		<info_button id='1'>參股醫院炒地皮 中資來台探路</info_button>
+		<info_button id='1'>參股醫院炒地皮 中資來台探路(2014.04.16)</info_button>
 		<info_link id='1'>https://tinyurl.com/y44zw9qs</info_link>
 		<info_button id='2'>學者醫團質疑︰中資捐助不設限 恐鯨吞台醫院</info_button>
-		<info_link id='2'>https://tinyurl.com/y44zw9qs</info_link>
+		<info_link id='2'>https://ec.ltn.com.tw/article/paper/767633</info_link>
 	</info>
 
 
@@ -719,9 +719,9 @@
 			<dialog id='1'>你在不知不覺中睡去，醒來已經接近中午，手機上滿是AR16的訊息，抗爭遭到強力鎮壓，到處都是有人被打到頭破血流的照片。</dialog>			<dialog_image id='1'>7</dialog_image>
 			<dialog id='2'>此時朋友們傳訊息說，他們受了傷，想借你家休息。「來吧。」你換了衣服，下樓準備接人，卻見到——</dialog>			<dialog_image id='2'>9</dialog_image>
 			<dialog id='3'>「你的女兒呢？」張三站在門口，背後一群警察壓著你的朋友，「你認識這些暴徒嗎？」</dialog>			<dialog_image id='3'>10</dialog_image>
-			<dialog id='4'>「抓住他！」張三沒等你回答便下令，2名警察衝上前，把你按倒在地。</dialog>			<dialog_image id='3'>10</dialog_image>
-			<dialog id='5'>你被帶上警車，心底有種感覺，此生再也見不到女兒。</dialog>			<dialog_image id='3'>10</dialog_image>
-			<dialog id='6'>你想起自己一路面臨的所有選擇，彷彿其實別無選擇，最後必定會走到這一步⋯⋯</dialog>			<dialog_image id='3'>10</dialog_image>
+			<dialog id='4'>「抓住他！」張三沒等你回答便下令，2名警察衝上前，把你按倒在地。</dialog>			<dialog_image id='4'>10</dialog_image>
+			<dialog id='5'>你被帶上警車，心底有種感覺，此生再也見不到女兒。</dialog>			<dialog_image id='5'>11</dialog_image>
+			<dialog id='6'>你想起自己一路面臨的所有選擇，彷彿其實別無選擇，最後必定會走到這一步⋯⋯</dialog>			<dialog_image id='6'>11</dialog_image>
 			<ending>2</ending>
 		</result_text>
 	</quest_result1>

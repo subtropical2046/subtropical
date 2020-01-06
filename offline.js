@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1578279262,
+	"version": 1578319307,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -135,12 +135,11 @@
 		"images/story_image14-sheet2.png",
 		"images/story_image14-sheet3.png",
 		"images/story_image14-sheet4.png",
-		"icon-16.png",
-		"icon-32.png",
+		"images/quest_start_button-sheet0.png",
+		"loading-logo.png",
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
-		"loading-logo.png",
 		"quest.xml"
 	]
 }
