@@ -141,6 +141,7 @@
 		"icon-16.jpg",
 		"icon-32.jpg",
 		"icon-114.jpg",
+		"icon-144.jpg",
 		"icon-128.jpg",
 		"quest.xml"
 	]
