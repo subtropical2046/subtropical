@@ -22,9 +22,9 @@
 		"images/progress_dot-sheet1.png",
 		"images/reset-sheet0.png",
 		"images/info-sheet0.png",
-		"images/info_bg-sheet0.jpg",
+		"images/info_bg-sheet0.png",
 		"images/info_close-sheet0.png",
-		"images/gotonext-sheet0.jpg",
+		"images/gotonext-sheet0.png",
 		"images/taptostart_button-sheet0.png",
 		"images/story_image1-sheet0.png",
 		"images/story_image1-sheet1.jpg",
@@ -138,10 +138,10 @@
 		"images/quest_start_button-sheet0.png",
 		"loading-logo.png",
 		"icon-256.jpg",
-		"icon-16.png",
-		"icon-32.png",
-		"icon-114.png",
-		"icon-128.png",
+		"icon-16.jpg",
+		"icon-32.jpg",
+		"icon-114.jpg",
+		"icon-128.jpg",
 		"quest.xml"
 	]
 }
