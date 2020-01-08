@@ -137,7 +137,7 @@
 		"images/story_image14-sheet4.png",
 		"images/quest_start_button-sheet0.png",
 		"loading-logo.png",
-		"icon-256.png",
+		"icon-256.jpg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
